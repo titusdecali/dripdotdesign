@@ -39,12 +39,12 @@ The absence of the date window is a feature we like. It gives simplicity and har
 
 ### Who should wear it?
 
-if you are ready to spend between 637 $ (delivered with the rubber strap) and 724 $ (delivered with the metal strap), the Baltic could be a timepiece for you, especially if you wish to wear a timepiece for smaller wrists. 
+if you are ready to spend between 637 $ (delivered with the rubber strap) and 724 $ (delivered with the metal strap), the Baltic could be a timepiece for you, especially if you wish to wear a timepiece for smaller wrists.
 
 If you wish to wear a dive watch, the Aquascaphe could be the watch you If you are looking for if you wish to wear a watch with a smaller case size than your traditional dive watch.
 
-Note: images showcased in this article have been taken from the Baltic Watch [Instagram](https://www.instagram.com/balticwatches/?hl=en) account. 
+Note: images showcased in this article have been taken from the Baltic Watch [Instagram](https://www.instagram.com/balticwatches/?hl=en) account.
 
-    <a href="https://www.instagram.com/balticwatches/?hl=en" target="_blank">LINK TEXT</a>
+        <a href="https://www.instagram.com/balticwatches/?hl=en" target="_blank">InstagramT</a>
 
-dfdf
+fggdgf
