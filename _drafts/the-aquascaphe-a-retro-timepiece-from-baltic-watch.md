@@ -10,6 +10,8 @@ featured_image: ''
 
 ## Dive back into the past with the Aquascaphe
 
+![](/uploads/The Aquascaphe diving watch by Baltic Watch.png)
+
 If you are a watch enthusiast you must be familiar with the brand Baltic. Back in 2018, this french microbrand launched its first timepieces on the crowdfunding platform Kickstarter. The HMS 001 and the BICOMPAX 001 were a real success. Within 30 days, Baltic raised EUR 514,806 from 1,044 backers.
 
 Fast-forwarding to 2018, Baltic launched its third watch; a dive watch named Aquascaphe. This time, Baltic Watch released the watch without the help of Kickstarter. The pre-orders were taken directly on the Baltic website.
