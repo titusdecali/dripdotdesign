@@ -1,57 +1,81 @@
 ---
-title: The Aquascaphe; a retro timepiece from Baltic Watch
+title: Reviewing the Aquascaphe diving watch
 date: 
-description: 'Our review of the Aquascaphe diving watch. A vintage-inspired timepiece
-  created by the french microbrand Baltic Watch. '
+description: Our review of the Aquascaphe diving watch. A vintage-inspired timepiece
+  created by the french microbrand Baltic Watch.
 featured_image: ''
 
 ---
-> # The Aquascaphe diving watch; a retro timepiece by Baltic Watch
+> # Review: the Aquascaphe diving watch
 
-## Dive back into the past with the Aquascaphe
+## A retro timepiece by Baltic Watch
 
-![](/uploads/The Aquascaphe diving watch by Baltic Watch.png)
+![/uploads/The Aquascaphe diving watch by Baltic Watch.png](https://app.forestry.io/sites/nou8xpqulay7uq/body-media//uploads/The Aquascaphe diving watch by Baltic Watch.png)
 
-If you are a watch enthusiast you must be familiar with the brand Baltic. Back in 2018, this french microbrand launched its first timepieces on the crowdfunding platform Kickstarter. The HMS 001 and the BICOMPAX 001 were a real success. Within 30 days, Baltic raised EUR 514,806 from 1,044 backers.
+If you are a watch enthusiast you are most likely familiar with the french microbrand Baltic Watch. Like many new watch microbrands, Baltic Watch began on the crowdfunding platform Kickstarter. Their first two vintage-looking watches, the HMS 001 and the BICOMPAX 001 were launched in 2018 on Kickstarter. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
 
-Fast-forwarding to 2018, Baltic launched its third watch; a dive watch named Aquascaphe. This time, Baltic Watch released the watch without the help of Kickstarter. The pre-orders were taken directly on the Baltic website.
+Thanks to their unique design and great quality, Baltic managed to grow a large community, which allowed them to launch their third watch on their own, without the help of Kickstarter. Fast-forwarding to 2019, Baltic Watch launched its first diving watch; a 38 mm timepiece baptized the Aquascaphe.
 
 Let's dive into the _Aquascaphe diving watch_.
 
-### Going vintage with the Aquascaphe by Baltic Watch
+### Going vintage with the Aquascaphe
 
-We all agree that the Aquascaphe has a nice vintage feel. What we like in this watch is the little details that make a big difference. For instance, the triangle-shaped markers 3, 6 and 9 sandwich-style markers while the marker 12 is printed. It is a unique combination for a dial and we like it.  
-If you like your diver with a stainless steel bracelet, you will fore sure like the one coming with the **Aquasquaphe diving watch** for an extra US$87. It is a BOR bracelet (beads-of-rice) that will sit comfortably on your wrist.
+When looking at the Aquascaphe, you will easily recognize the shapes and style from the Fifty Fantom by Blancpain. This "hommage watch" is available in three variations:
 
-The absence of the date window is a feature we like. It gives simplicity and harmony to the dial.
+* Blue Gilt - a blue bezel with a sunrays dial
+* Black & Silver - silvered markers on the dial and bezel, together with a grainy dial
+* Black Cream - creme colored markers on the dial and bezel as well as a grainy dial
+
+The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of marker styles.
+
+  
+If you like to wear your diver with a stainless steel bracelet, you will have the possibility to purchase the **Aquasquaphe diving watch** with a BOR (beads-of-rice) bracelet for an extra US$87.
+
+The absence of the date window brings simplicity and harmony to the dial.
 
 ### 38 mm of elegance
 
-* Stainless steel 316L
-* Case size: 38mm diameter (39mm with the bezel) and a 47mm distance lug to lug.
-* Case thickness: 12mm
-* Movement: automatic movement Miyota 9039 (Japan)
-* Dial: sandwich dial for the triangle markers 3, 6 and 9
-* Crystal: double domed sapphire glass
-* Bezel: unidirectional sapphire bezel
-* Crown: screw-down crown SCREW DOWN CROWN
-* Strap: stainless steel and rubber
-* Water resistance: 200 meters (200 ATM) ​​​​​​​
-* Colors: Blue Gilt, Black & Silver, Black Cream
+The Aquascaphe comes with all the features you can expect from a quality dive watch. Baltic Watch opted for a Japanese automatic movement from Miyota to keep the price attractive. With its thickness of the watch 12 mm and a case size of 38mm, the Aquascaphe will be a discrete dive watch on your writs. Some might argue that a 38mm case is too small for a dive watch. A 42mm would have given a more manly look to this watch.
 
-### Who should wear it?
+• Stainless steel 316L  
+• Case size: 38mm diameter (39mm with the bezel) and a 47mm distance lug to lug.  
+• Case thickness: 12mm  
+• Movement: automatic movement Miyota 9039 (Japan)   
+• Dial: sandwich dial for the triangle markers 3, 6 and 9  
+• Crystal: double domed sapphire glass  
+• Bezel: unidirectional sapphire bezel  
+• Crown: screw-down crown SCREW DOWN CROWN  
+• Strap: stainless steel and rubber  
+• Water resistance: 200 meters (200 ATM)
 
-if you are ready to spend between 637 $ (delivered with the rubber strap) and 724 $ (delivered with the metal strap), the Baltic could be a timepiece for you, especially if you wish to wear a timepiece for smaller wrists.
+Colors: Blue Gilt, Black & Silver, Black Cream
 
-If you wish to wear a dive watch, the Aquascaphe could be the watch you If you are looking for if you wish to wear a watch with a smaller case size than your traditional dive watch.
+### Manufacturing the Aquascaphe
+
+The Aquascaphe, like the first two watches from Baltic, is assembled in France. What does it exactly mean? All parts are manufactured in Asia, shipped to France, where the final assembly is done. Baltic is not the only brand doing so. Well established watch brands are outsourcing the production of their watches in China before putting all the pieces together in Switzerland, France, Germany, Italy or the USA.
+
+### Who should wear it the Aquascaphe diving watch?
+
+Compared to other dive watches from different microbrands, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend 637 US$ when purchased with a rubber strap or 724 US$ if you prefer to wear the Aquascaphe with its BOR stainless steel bracelet.
+
+If you don't mind the price and wish to wear a small case dive watch, this diver could be for you. If you are looking for more affordable options keep in eye on this blog, we will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
+
+### To sum up
+
+Thanks to the success of the HMS 001 and the BICOMPAX 001, Baltic Watch didn't encounter a strong resistance when introducing the Aquascaphe to the watch community. With its classic design paying homage to the Fifty Fantom (Blancpain), this dive watch is a real head-turner.
+
+Sold between US$637 and US$724 (depending on the selected strap option), some consumers might argue that the price is too high for a Miyota movement.
+
+We personally would love to see this watch with a bigger dial. But, if you are looking for a discrete diving watch, this you could be the right one for you.
 
 Note: images showcased in this article have been taken from the Baltic Watch [Instagram](https://www.instagram.com/balticwatches/?hl=en) account.
+
+    xxxxxxxxxx
+
+1
 
         <a href="https://www.instagram.com/balticwatches/?hl=en" target="_blank">InstagramT</a>
 
 To continue
 
-* Production
-* Feedback
-* [Conclusion]()
-* 
+Add pictures 
