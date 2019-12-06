@@ -16,9 +16,9 @@ If you are a watch enthusiast, you are most likely familiar with the french micr
 
 {picture side to side of both watches}
 
-Thanks to their unique design and high quality, Baltic managed to grow a large community, which allowed them to launch their third watch on their own, without the help of Kickstarter. Fast-forwarding to 2019, Baltic Watch launched its first diving watch, a 38 mm timepiece baptized the Aquascaphe.
+Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without having to use the service of Kickstarter.  
 
-Let's dive into the _Aquascaphe diving watch_.
+> Let's dive into the _Aquascaphe diving watch_, a 38mm timepiece. 
 
 ### Going vintage with the Aquascaphe
 
