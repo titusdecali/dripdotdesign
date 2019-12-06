@@ -57,7 +57,7 @@ The Aquascaphe, like the first two watches from Baltic, is assembled in France. 
 
 All parts are made in Asia, shipped to France, where the final assembly is done. Baltic is not the only brand doing so. Well established watch brands are outsourcing the production of their parts in China before putting all the pieces together in Switzerland, France, Germany, Italy or the USA. 
 
-### Who should wear it the Aquascaphe diving watch?
+### Cost of the Aquascaphe diving watch
 
 Compared to other dive watches from different microbrands, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend 637 US$ when purchased with a rubber strap or 724 US$ if you prefer to wear the Aquascaphe with its BOR stainless steel bracelet.
 
