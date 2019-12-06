@@ -22,17 +22,17 @@ Thanks to the retro look of their watches, Baltic rallied a large community of w
 
 ### Going vintage with the Aquascaphe
 
-When looking at the Aquascaphe, you will quickly recognize the shapes and style from the Fifty Fantom by Blancpain. This "hommage watch" is available in three variations:
+When looking at the Aquascaphe, you will quickly recognize the curves and style from the Fifty Fantom by Blancpain. Baltic's "hommage watch" is available in three variations:
 
 * Blue Gilt - a blue bezel with a sunrays dial
 * Black & Silver - silvered markers on the dial and bezel, together with a grainy dial
 * Black Cream - creme colored markers on the dial and bezel as well as a grainy dial
 
-The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of marker styles.
+The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of markers. 
 
 If you like to wear your diver with a stainless steel bracelet, you will have the possibility to purchase the **Aquasquaphe diving watch** with a BOR (beads-of-rice) bracelet for an extra US$87.
 
-The absence of the date window brings simplicity and harmony to the dial.
+The absence of a date window brings simplicity and harmony to the dial.
 
 ### 38 mm of elegance
 
