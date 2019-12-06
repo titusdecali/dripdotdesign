@@ -12,7 +12,9 @@ featured_image: ''
 
 ![/uploads/The Aquascaphe diving watch by Baltic Watch.png](https://app.forestry.io/sites/nou8xpqulay7uq/body-media//uploads/The Aquascaphe diving watch by Baltic Watch.png)
 
-If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new watch microbrands, Baltic Watch began on the crowdfunding platform Kickstarter. Their first two vintage-looking watches, the HMS 001 and the BICOMPAX 001, were launched in 2018 on Kickstarter. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
+If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted on the crowdfunding platform Kickstarter. The French team behind the brand released on Kickstarter in 2018 two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
+
+{picture side to side of both watches}
 
 Thanks to their unique design and high quality, Baltic managed to grow a large community, which allowed them to launch their third watch on their own, without the help of Kickstarter. Fast-forwarding to 2019, Baltic Watch launched its first diving watch, a 38 mm timepiece baptized the Aquascaphe.
 
@@ -28,7 +30,6 @@ When looking at the Aquascaphe, you will quickly recognize the shapes and style 
 
 The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of marker styles.
 
-  
 If you like to wear your diver with a stainless steel bracelet, you will have the possibility to purchase the **Aquasquaphe diving watch** with a BOR (beads-of-rice) bracelet for an extra US$87.
 
 The absence of the date window brings simplicity and harmony to the dial.
@@ -40,7 +41,7 @@ The Aquascaphe comes with all the features you can expect from a quality dive wa
 • Stainless steel 316L  
 • Case size: 38mm diameter (39mm with the bezel) and a 47mm distance lug to lug.  
 • Case thickness: 12mm  
-• Movement: automatic movement Miyota 9039 (Japan)   
+• Movement: automatic movement Miyota 9039 (Japan)  
 • Dial: sandwich dial for the triangle markers 3, 6 and 9  
 • Crystal: double domed sapphire glass  
 • Bezel: unidirectional sapphire bezel  
@@ -74,4 +75,4 @@ Note: images showcased in this article have been taken from the Baltic Watch [In
 
 **To finish**
 
-Add pictures 
+Add pictures
