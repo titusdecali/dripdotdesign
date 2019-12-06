@@ -12,7 +12,7 @@ featured_image: ''
 
 ![/uploads/The Aquascaphe diving watch by Baltic Watch.png](https://app.forestry.io/sites/nou8xpqulay7uq/body-media//uploads/The Aquascaphe diving watch by Baltic Watch.png)
 
-If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted on the crowdfunding platform Kickstarter. The French team behind the brand released on Kickstarter in 2018 two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
+If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted with the help of a crowdfunding campaign. In 2018, the French team behind this young watch brand released on Kickstarter two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
 
 {picture side to side of both watches}
 
