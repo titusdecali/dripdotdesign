@@ -14,11 +14,13 @@ featured_image: ''
 
 If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted with the help of a crowdfunding campaign. In 2018, the French team behind this young watch brand released on Kickstarter two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
 
+![HMS 0001 and BICOMPAX 001 by Baltic Watch](/uploads/Baltic watches .png "The HMS 0001 and the BICOMPAX 001")
+
 {picture side to side of both watches}
 
-Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without having to use the service of Kickstarter.  
+Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without having to use the service of Kickstarter.
 
-> Let's dive into the _Aquascaphe diving watch_, a 38mm timepiece. 
+> Let's dive into the _Aquascaphe diving watch_, a 38mm timepiece.
 
 ### Going vintage with the Aquascaphe
 
@@ -28,7 +30,7 @@ When looking at the Aquascaphe, you will quickly recognize the curves and style 
 * Black & Silver - silvered markers on the dial and bezel, together with a grainy dial
 * Black Cream - creme colored markers on the dial and bezel as well as a grainy dial
 
-The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of markers. 
+The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of markers.
 
 If you like to wear your diver with a stainless steel bracelet, you will have the possibility to purchase the **Aquasquaphe diving watch** with a BOR (beads-of-rice) bracelet for an extra US$87.
 
@@ -45,7 +47,7 @@ The Aquascaphe comes with all the features you can expect from a quality dive wa
 • Dial: sandwich dial for the triangle markers 3, 6 and 9  
 • Crystal: double domed sapphire glass  
 • Bezel: unidirectional sapphire bezel  
-• Crown: screw-down crown   
+• Crown: screw-down crown  
 • Strap: stainless steel and rubber  
 • Water resistance: 200 meters (200 ATM)
 
@@ -53,9 +55,9 @@ Colors: Blue Gilt, Black & Silver, Black Cream
 
 ### Manufacturing the Aquascaphe
 
-The Aquascaphe, like the first two watches from Baltic, is assembled in France. What does it exactly mean? 
+The Aquascaphe, like the first two watches from Baltic, is assembled in France. What does it exactly mean?
 
-All parts are made in Asia, shipped to France, where the final assembly is done. Baltic is not the only brand doing so. Well established watch brands are outsourcing the production of their parts in China before putting all the pieces together in Switzerland, France, Germany, Italy or the USA. 
+All parts are made in Asia, shipped to France, where the final assembly is done. Baltic is not the only brand doing so. Well established watch brands are outsourcing the production of their parts in China before putting all the pieces together in Switzerland, France, Germany, Italy or the USA.
 
 ### Cost of the Aquascaphe diving watch
 
