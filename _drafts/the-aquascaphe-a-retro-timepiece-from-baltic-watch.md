@@ -3,7 +3,7 @@ title: Reviewing the Aquascaphe diving watch
 date: 
 description: Our review of the Aquascaphe diving watch. A vintage-inspired timepiece
   created by the french microbrand Baltic Watch.
-featured_image: ''
+featured_image: "/uploads/The Aquascaphe diving watch.png"
 
 ---
 > # Review: the Aquascaphe diving watch
