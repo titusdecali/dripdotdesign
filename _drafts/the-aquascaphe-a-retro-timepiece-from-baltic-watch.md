@@ -14,9 +14,7 @@ featured_image: ''
 
 If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted with the help of a crowdfunding campaign. In 2018, the French team behind this young watch brand released on Kickstarter two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
 
-![HMS 0001 and BICOMPAX 001 by Baltic Watch](/uploads/Baltic watches .png "The HMS 0001 and the BICOMPAX 001")
-
-{picture side to side of both watches}
+![HMS 0001 and BICOMPAX 001 by Baltic Watch](/uploads/Baltic watches microbrand.png "The HMS 0001 and the BICOMPAX 001")
 
 Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without having to use the service of Kickstarter.
 
@@ -25,6 +23,8 @@ Thanks to the retro look of their watches, Baltic rallied a large community of w
 ### Going vintage with the Aquascaphe
 
 When looking at the Aquascaphe, you will quickly recognize the curves and style from the Fifty Fantom by Blancpain. Baltic's "hommage watch" is available in three variations:
+
+![Aquascaphe Black Cream, Blue Gilt, , Black & Silver](/uploads/Baltic Aquascaphe dive watches.png "The Aquascaphe dive watches")
 
 * Blue Gilt - a blue bezel with a sunrays dial
 * Black & Silver - silvered markers on the dial and bezel, together with a grainy dial
