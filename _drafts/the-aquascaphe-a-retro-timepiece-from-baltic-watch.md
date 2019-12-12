@@ -63,11 +63,11 @@ All parts are made in Asia, shipped to France, where the final assembly is done.
 
 ### Cost of the Aquascaphe diving watch
 
-Compared to other dive watches from different microbrands, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend 637 US$ when purchased with a rubber strap or 724 US$ if you prefer to wear the Aquascaphe with its BOR stainless steel bracelet.
+Compared to other microbrands' dive watches, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend 637 US$ when buying this timepiece with a rubber strap or 724 US$ if you prefer your Aquascaphe with a BOR stainless steel bracelet.
 
-If you don't mind the price and wish to wear a small case dive watch, this diver could be for you. If you are looking for more affordable options keep in eye on this blog, we will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
+If wearing a small case dive watch is your jam, this 38mm diver could be for you. On the other hand, if you are looking for more affordable options buying your diver on Kickstarter could be a good way to get a quality watch at an affordable price.  
 
-(rework)
+Sign up for our newsletter. We will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
 
 ### To sum up
 
@@ -77,8 +77,4 @@ Sold between US$637 and US$724 (depending on the selected strap), some consumers
 
 We would love to see this watch with a bigger dial. But, if you are looking for a discrete diving watch, this you could be the right one for you.
 
-Note: images showcased in this article have been taken from the Baltic Watch [Instagram](https://www.instagram.com/balticwatches/?hl=en) account.
-
-**To finish**
-
-Add pictures
+_Note: images showcased in this article have been taken from the Baltic Watch_ [_Instagram_](https://www.instagram.com/balticwatches/?hl=en) _account._
