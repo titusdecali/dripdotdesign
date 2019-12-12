@@ -53,6 +53,8 @@ The Aquascaphe comes with all the features you can expect from a quality dive wa
 
 Colors: Blue Gilt, Black & Silver, Black Cream
 
+![](/uploads/Baltic Aquascaphe diving watch .png)
+
 ### Manufacturing the Aquascaphe
 
 The Aquascaphe, like the first two watches from Baltic, is assembled in France. What does it exactly mean?
