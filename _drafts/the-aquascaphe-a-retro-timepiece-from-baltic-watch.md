@@ -77,8 +77,6 @@ We would love to see this watch with a bigger dial. But, if you are looking for 
 
 Note: images showcased in this article have been taken from the Baltic Watch [Instagram](https://www.instagram.com/balticwatches/?hl=en) account.
 
-        <a href="https://www.instagram.com/balticwatches/?hl=en" target="_blank">InstagramT</a>
-
 **To finish**
 
 Add pictures
