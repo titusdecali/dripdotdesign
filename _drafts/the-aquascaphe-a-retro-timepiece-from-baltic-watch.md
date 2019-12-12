@@ -6,7 +6,7 @@ description: Our review of the Aquascaphe diving watch. A vintage-inspired timep
 featured_image: "/uploads/The Aquascaphe diving watch.png"
 
 ---
-> # Review: the Aquascaphe diving watch
+# Review: the Aquascaphe diving watch 
 
 ## A retro timepiece by Baltic Watch
 
