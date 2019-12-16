@@ -18,11 +18,13 @@ If you are a watch enthusiast, you are most likely familiar with the french micr
 
 Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without using Kickstarter. Thus allowing them to save the fee charged by Kickstarter to project creators. 
 
-> Let's dive into the _Aquascaphe diving watch_, a 38mm timepiece.
+> The _Aquascaphe;_  a 38mm dive watch.
 
 ### Going vintage with the Aquascaphe
 
-When looking at the Aquascaphe, you will quickly recognize the curves and style from the Fifty Fantom by Blancpain. Baltic's "hommage watch" is available in three variations:
+When looking at the Aquascaphe, you will quickly recognize the design features of the Fifty Fantom by Blancpain. With its first diving watch, Baltic created a timepiece inspired by the style of a legendary timepiece. 
+
+This french _hommage watch_ is available in three color variations
 
 ![Aquascaphe Black Cream, Blue Gilt, , Black & Silver](/uploads/Baltic Aquascaphe dive watches.png "The Aquascaphe dive watches")
 
@@ -30,7 +32,7 @@ When looking at the Aquascaphe, you will quickly recognize the curves and style 
 * Black & Silver - silvered markers on the dial and bezel, together with a grainy dial
 * Black Cream - creme colored markers on the dial and bezel as well as a grainy dial
 
-The watch is packed with eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. The printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of markers.
+The watch is featuring eye-pleasing details. We appreciate the sandwich-style markers 3, 6 and 9 shaped like triangles. You will notice that the printed marker 12 is the only numeral on the Aquascaphe dial. This creates a unique combination of markers. 
 
 If you like to wear your diver with a stainless steel bracelet, you will have the possibility to purchase the **Aquasquaphe diving watch** with a BOR (beads-of-rice) bracelet for an extra US$87.
 
