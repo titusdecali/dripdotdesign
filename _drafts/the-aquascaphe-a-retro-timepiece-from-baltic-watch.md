@@ -6,17 +6,17 @@ description: Our review of the Aquascaphe diving watch. A vintage-inspired timep
 featured_image: "/uploads/The Aquascaphe diving watch.png"
 
 ---
-# Review: the Aquascaphe diving watch 
+# Review: the Aquascaphe diving watch
 
 ## A retro timepiece by Baltic Watch
 
 ![/uploads/The Aquascaphe diving watch by Baltic Watch.png](https://app.forestry.io/sites/nou8xpqulay7uq/body-media//uploads/The Aquascaphe diving watch by Baltic Watch.png)
 
-If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted with the help of a crowdfunding campaign. In 2018, the French team behind this young watch brand released on Kickstarter two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers.
+If you are a watch enthusiast, you are most likely familiar with the french microbrand Baltic Watch. Like many new microbrand, Baltic Watch sprouted with the help of a crowdfunding campaign. In 2018, the team behind this young watch brand launched on Kickstarter two vintage-looking watches. The HMS 001 and the BICOMPAX 001. Within 30 days, Baltic Watch raised EUR 514,806 from 1,044 backers. A true success.
 
 ![HMS 0001 and BICOMPAX 001 by Baltic Watch](/uploads/Baltic watches microbrand.png "The HMS 0001 and the BICOMPAX 001")
 
-Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without having to use the service of Kickstarter.
+Thanks to the retro look of their watches, Baltic rallied a large community of watch aficionados. This allowed them to successfully launch on their website the Aquascaphe, without using Kickstarter. Thus allowing them to save the fee charged by Kickstarter to project creators. 
 
 > Let's dive into the _Aquascaphe diving watch_, a 38mm timepiece.
 
@@ -65,7 +65,7 @@ All parts are made in Asia, shipped to France, where the final assembly is done.
 
 Compared to other microbrands' dive watches, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend 637 US$ when buying this timepiece with a rubber strap or 724 US$ if you prefer your Aquascaphe with a BOR stainless steel bracelet.
 
-If wearing a small case dive watch is your jam, this 38mm diver could be for you. On the other hand, if you are looking for more affordable options buying your diver on Kickstarter could be a good way to get a quality watch at an affordable price.  
+If wearing a small case dive watch is your jam, this 38mm diver could be for you. On the other hand, if you are looking for more affordable options buying your diver on Kickstarter could be a good way to get a quality watch at an affordable price.
 
 Sign up for our newsletter. We will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
 
