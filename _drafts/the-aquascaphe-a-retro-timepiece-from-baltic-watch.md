@@ -36,7 +36,7 @@ The watch is featuring eye-pleasing details. We appreciate the sandwich-style ma
 
 If you like to wear your diver with a stainless steel bracelet, you will have the possibility to purchase the **Aquasquaphe diving watch** with a BOR (beads-of-rice) bracelet for an extra US$87.
 
-The absence of a date window brings simplicity and harmony to the dial.
+The absence of a date window brings simplicity and harmony to the dial. 
 
 ### 38 mm of elegance
 
@@ -61,15 +61,17 @@ Colors: Blue Gilt, Black & Silver, Black Cream
 
 The Aquascaphe, like the first two watches from Baltic, is assembled in France. What does it exactly mean?
 
-All parts are made in Asia, shipped to France, where the final assembly is done. Baltic is not the only brand doing so. Well established watch brands are outsourcing the production of their parts in China before putting all the pieces together in Switzerland, France, Germany, Italy or the USA.
+All parts are made in Asia, shipped to France, where the final assembly is done. 
+
+Baltic is not the only brand doing so. Well established watch brands are outsourcing the production of their parts in China before putting all the pieces together in Switzerland, France, Germany, Italy or the USA.
 
 ### Cost of the Aquascaphe diving watch
 
-Compared to other microbrands' dive watches, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend 637 US$ when buying this timepiece with a rubber strap or 724 US$ if you prefer your Aquascaphe with a BOR stainless steel bracelet.
+Compared to other microbrands' dive watches, the Aquascaphe value proposition is not ''being an affordable watch''. You will have to spend US$637 when buying this timepiece with a rubber strap or US$724 if you prefer your Aquascaphe with a BOR stainless steel bracelet.
 
 If wearing a small case dive watch is your jam, this 38mm diver could be for you. On the other hand, if you are looking for more affordable options buying your diver on Kickstarter could be a good way to get a quality watch at an affordable price.
 
-Sign up for our newsletter. We will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
+You don't know which watch to buy? Sign up for our newsletter. We will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo. 
 
 ### To sum up
 
