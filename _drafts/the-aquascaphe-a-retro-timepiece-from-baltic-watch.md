@@ -1,5 +1,5 @@
 ---
-title: 'Baltic Watch first diving watch  '
+title: 'Baltic Watch first diving watch - the Aquascaphe '
 date: 2019-12-11 15:00:00 +0000
 description: Our review of the Aquascaphe diving watch. A vintage-inspired timepiece
   created by the french microbrand Baltic Watch.
