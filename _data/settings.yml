@@ -3,44 +3,44 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
+  logo_image: /images/logo.svg
   logo_width: 200
 
 menu_settings:
   menu_items:
-    - title: "Projects"
-      url: "/"
+    # - title: "Projects"
+    #   url: "/"
     - title: "Blog"
-      url: "/blog/"
-    - title: "About"
-      url: "/about"
+      url: "/blog"
+    # - title: "About"
+    #   url: "/about"
     - title: "Contact"
       url: "/contact"
 
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline: A beautiful, minimal two-column portfolio Jekyll theme
+  footer_tagline: Curating things you'll love using everday
 
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 10
 
 contact_settings:
-  form_action: ""
+  form_action: "https://formspree.io/mqkekpvv"
   confirmation_url: "/thanks"
   email_subject: "Contact form submission"
   send_button_text: "Send Message"
 
 social_settings:
-  facebook_url: ""
-  twitter_url: ""
-  instagram_url: ""
+  facebook_url: "https://facebook.com/dripdesign"
+  twitter_url: "https://twitter.com/dripdotdesign"
+  instagram_url: "https://www.instagram.com/dripdotdesign/"
   snapchat_url: ""
   youtube_url: ""
   google-plus_url: ""
   vimeo_url: ""
-  pinterest_url: ""
+  pinterest_url: "https://pinterest.com/dripdotdesign/"
   medium_url: ""
   quora_url: ""
   amazon_url: ""
@@ -66,9 +66,9 @@ color_settings:
   text_dark_color: "#2A2F36"
   text_medium_color: "#6C7A89"
   text_light_color: "#ABB7B7"
-  accent_color: "#F2784B"
+  accent_color: "#0062FF"
   border_color: "#dddddd"
-  overlay_background_color: "#F2784B"
+  overlay_background_color: "#D1375A"
   overlay_text_color: "#ffffff"
   overlay_accent_color: "#2A2F36"
   error_color: "#D64541"

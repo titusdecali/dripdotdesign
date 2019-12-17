@@ -10,17 +10,17 @@
 	<!-- Page Info -->
 	<link rel="shortcut icon" href="/images/favicon.png">
 	<title>Blog – Drip.Design</title>
-	<meta name="description" content="Duet includes a simple blog with pagination.">
+	<meta name="description" content="Curating things you'll love using everday">
 
 	<!-- Twitter Card -->
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="Blog – Drip.Design">
-	<meta name="twitter:description" content="Duet includes a simple blog with pagination.">
+	<meta name="twitter:description" content="Curating things you'll love using everday">
 	<meta name="twitter:image:src" content="http://localhost:4000/images/social.jpg">
 
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="Blog – Drip.Design" />
-	<meta property="og:description" content="Duet includes a simple blog with pagination." />
+	<meta property="og:description" content="Curating things you'll love using everday" />
 	<meta property="og:image" content="http://localhost:4000/images/social.jpg" />
 
 	
@@ -63,8 +63,8 @@
 	<div class="wrap">
 
 		
-		<a href="/" class="header__title">
-			Drip.Design
+		<a href="/" class="header__logo">
+			<img src="/images/logo.svg" class="header__logo__img">
 		</a>
 		
 
@@ -76,15 +76,7 @@
 				<ul class="menu__list">
 					
 					<li class="menu__list__item">
-						<a href="/" class="menu__list__item__link">Projects</a>
-					</li>
-					
-					<li class="menu__list__item">
-						<a href="/blog/" class="menu__list__item__link">Blog</a>
-					</li>
-					
-					<li class="menu__list__item">
-						<a href="/about" class="menu__list__item__link">About</a>
+						<a href="/blog" class="menu__list__item__link">Blog</a>
 					</li>
 					
 					<li class="menu__list__item">
@@ -110,67 +102,40 @@
 		<div class="page__content" data-page-title="Blog – Drip.Design">
 
 			<section class="intro">
-
-	<div class="wrap">
-
-		<h1>What we've been up to.</h1>
-		<p>Duet includes a simple blog with pagination.</p>
-
-	</div>
-
+  <div class="wrap">
+    <h1>Latest Posts</h1>
+    <p>Curating things you'll love using everday</p>
+  </div>
 </section>
 
 <section class="blog">
+  <div class="content-wrap blog-wrap">
+    
 
-	<div class="content-wrap blog-wrap">
+    <article class="blog-post">
+      <a class="blog-post__link" href="/2019/12/11/the-aquascaphe-a-retro-timepiece-from-baltic-watch.html">
+        <div class="blog-post__image">
+          <img
+            src="/uploads/The%20Aquascaphe%20diving%20watch.png"
+            alt="Baltic Watch's First Diving Watch - The Aquascaphe "
+          />
+        </div>
 
-		
+        <div class="blog-post__content">
+          <div class="blog-post__info">
+            <h2 class="blog-post__title">Baltic Watch's First Diving Watch - The Aquascaphe </h2>
+            <p class="blog-post__subtitle">
+              11 December 2019
+            </p>
+          </div>
+        </div>
+      </a>
+    </article>
 
-		<article class="blog-post">
-
-			<a class="blog-post__link" href="/blog/first-post">
-
-				<div class="blog-post__image">
-					<img src="/uploads/maxresdefault.jpg" alt="First Post">
-				</div>
-
-				<div class="blog-post__content">
-					<div class="blog-post__info">
-						<h2 class="blog-post__title">First Post</h2>
-						<p class="blog-post__subtitle">23 November 2019</p>
-					</div>
-				</div>
-
-			</a>
-
-		</article>
-
-		
-
-		<article class="blog-post">
-
-			<a class="blog-post__link" href="/blog/demo-post">
-
-				<div class="blog-post__image">
-					<img src="/images/demo/demo-square.jpg" alt="Demo Post1">
-				</div>
-
-				<div class="blog-post__content">
-					<div class="blog-post__info">
-						<h2 class="blog-post__title">Demo Post1</h2>
-						<p class="blog-post__subtitle">30 June 2018</p>
-					</div>
-				</div>
-
-			</a>
-
-		</article>
-
-		
-
-	</div>
-
+    
+  </div>
 </section>
+
 
 
 
@@ -180,23 +145,47 @@
 
 
 	<footer class="footer">
+  <div class="wrap">
+    
+    <!-- <a href="/" class="footer__title">
+      Drip.Design
+    </a> -->
+    
 
-	<div class="wrap">
+    <p class="footer__text">
+      Curating things you'll love using everday
+    </p>
 
-		
-		<a href="/" class="footer__title">
-			Drip.Design
+    <div class="footer__copyright">
+      <span
+        >© 2019 Drip.Design</span
+      >
+    </div>
+
+    <ul class="socials">
+	
+	
+	<li class="socials__item">
+		<a href="https://facebook.com/dripdesign" target="_blank" class="socials__item__link" title="Facebook">
+			<i class="fab fa-facebook-f" aria-hidden="true"></i>
 		</a>
-		
-
-		<p class="footer__text">A beautiful, minimal two-column portfolio Jekyll theme</p>
-
-		<div class="footer__copyright">
-			<span>© 2019 Drip.Design</span>
-			<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
-		</div>
-
-		<ul class="socials">
+	</li>
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://twitter.com/dripdotdesign" target="_blank" class="socials__item__link" title="Twitter">
+			<i class="fab fa-twitter" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.instagram.com/dripdotdesign/" target="_blank" class="socials__item__link" title="Instagram">
+			<i class="fab fa-instagram" aria-hidden="true"></i>
+		</a>
+	</li>
 	
 	
 	
@@ -208,10 +197,11 @@
 	
 	
 	
-	
-	
-	
-	
+	<li class="socials__item">
+		<a href="https://pinterest.com/dripdotdesign/" target="_blank" class="socials__item__link" title="Pinterest">
+			<i class="fab fa-pinterest" aria-hidden="true"></i>
+		</a>
+	</li>
 	
 	
 	
@@ -251,10 +241,9 @@
 	
 	
 </ul>
-
-	</div>
-
+  </div>
 </footer>
+
 
 
 	<!-- Javascript Assets -->
