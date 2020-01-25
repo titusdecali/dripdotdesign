@@ -22,9 +22,9 @@ Bellroy was created in 2010 by a group of Australian friends who were frustrated
   
 The **Bellroy Hide and Seek** wallet is an RFID protected stylish bifold wallet. This slim wallet is made with top-grade environmentally-friendly vegetable-tanned leather. Unlike other wallets made with hard leather, the **_Bellroy Hide and Seek_** features a soft leather that will take a nice patina over time. This will give a unique look to your everyday carry (EDC).
 
-Bellroy's logo was placed on the external front panel. Made with metal, the owl-shaped logo creates a nice texture contrast between the leather and the metal.
+Bellroy's logo was placed on the external front panel. Made with metal, the owl-shaped logo creates a nice contrast of textures between the leather and the metal.
 
-The internal and external leather panels together with the thread used to stitch together the wallet don't share the same color. _Bellroy_ is playing with color contrasts to give a novel look to the _Bellroy_ _Hide and Seek_.
+The internal and external leather panels together with the thread used to stitch together the wallet don't share the same color. _Bellroy_ is playing with contrasts to give a novel look to the _Bellroy_ _Hide and Seek_.
 
 #### A practical solution for your cards and cash
 
