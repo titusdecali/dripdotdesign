@@ -8,9 +8,7 @@ featured_image: ''
 ---
 # The Bellroy Hide and Seek and 2 other accessories you should own
 
-![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")
-
-##   
+# ![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")  
 Our top 3 gear from Bellroy
 
 Are you tired of your bulky wallet? How about that poorly designed phone case? Your days of pain are over. This article will help you to upgrade your style.
