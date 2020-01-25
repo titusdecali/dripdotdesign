@@ -22,14 +22,22 @@ Bellroy was created in 2010 by a group of Australian friends who were frustrated
   
 The **Bellroy Hide and Seek** wallet is an RFID protected stylish bifold wallet. This slim wallet is made with top-grade environmentally-friendly vegetable-tanned leather. Unlike other wallets made with hard leather, the **_Bellroy Hide and Seek_** features a soft leather that will take a nice patina over time. This will give a unique look to your everyday carry (EDC).
 
+**PICTURE** 
+
 Bellroy's logo was placed on the external front panel. Made with metal, the owl-shaped logo creates a nice contrast of textures between the leather and the metal.
 
+**PICTURE** 
+
 The internal and external leather panels together with the thread used to stitch together the wallet don't share the same color. _Bellroy_ is playing with contrasts to give a novel look to the _Bellroy_ _Hide and Seek_.
+
+**PICTURE** 
 
 #### A practical solution for your cards and cash
 
 Bellroy designed the Hide and Seek wallet to allow you to carry discreetly your cash and cards.  
 In addition to its 5 visible card slots, the wallet has one additional secret slot located in the secondary cash compartment. This cash compartment is concealed by a thin leather flap, allowing you to hide with style extra banknotes and cards. Now you know why this wallet was named the Hide and Seek.
+
+**PICTURE** 
 
 We love this secondary cash pouch as we can use it to carry foreign currencies when traveling abroad.
 
@@ -39,10 +47,16 @@ Like all Bellroy accessories, the Hide and Seek come with 3 years of internation
 * View on Amazon
 * View on Huckberry
 
+    
+    
+  **PICTURE** 
+
 ### The Bellroy Note Sleeve
 
   
-Carry more, without sacrificing style. If a minimalist wallet like the Hide and Seek is not enough, the Bellroy Note Sleeve is for you. This is not your usual bulky wallet. Thanks to its well-thought-out design, this bi-fold wallet can hold a lot, while maintaining a slim look.
+Carry more, without sacrificing style. If a minimalist wallet like the Hide and Seek is not enough, the **Bellroy Note Sleeve** is for you. This is not your usual bulky wallet. Thanks to its well-thought-out design, this bi-fold wallet can hold a lot, while maintaining a slim look.
+
+**PICTURE** 
 
 #### Small details for a strong impression
 
@@ -50,12 +64,16 @@ Carry more, without sacrificing style. If a minimalist wallet like the Hide and 
 This RFID protect wallet is made with environmentally friendly vegetable-tanned leather, available in different color declinations. Like with the Hide and Seek, the Note Sleeve is made with two different leather colors (external/internal) to create a nice contrast of colors.   
 Unlike the Hide and Seek, there is no steel owl on the Note Sleeve. Instead, the brand Bellroy is stamped on the leather.
 
+**PICTURE** 
+
 #### When style meets practicality
 
   
 Open your Note Sleeve to grab one of your 3 most important cards... For us, it is a credit card, a metro card, and our gym membership. Tuck away the other cards in a compartment featuring a pull tab. You can carry up to 11 cards in the Bellroy Note Sleeve. That’s more than enough to store your credit cards, gym membership, subway pass, ID card or frequent flyer card.
 
-Inside the pouch dedicated to banknotes, you will find a compartment for your business cards as well as a pocket to store coins. This wallet has everything you need.   
+Inside the pouch dedicated to banknotes, you will find a compartment for your business cards as well as a pocket to store coins. This wallet has everything you need. 
+
+**PICTURE**   
   
 The Bellroy Note Sleeve comes with 3 years of international warranty.
 
