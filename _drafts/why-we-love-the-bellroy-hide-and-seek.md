@@ -8,6 +8,8 @@ featured_image: ''
 ---
 # The Bellroy Hide and Seek and 2 other accessories you should own
 
+![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")
+
 ##   
 Our top 3 gear from Bellroy
 
