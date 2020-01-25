@@ -89,15 +89,23 @@ The Bellroy Note Sleeve comes with 3 years of international warranty.
   
 Phone cases are an everyday item we all use to protect our beloved smartphones. There is no scarcity in terms of brands and designs. When it comes to functionality and durability, no other brands make phone cases better than Bellroy.
 
+**PICTURE** 
+
 If you own an iPhone 11 Pro Max, the **Bellroy Phone Case - 3 Card** is for you. Bellroy's offer is simple; a functional and durable phone case that can conceal your 3 most important cards.
 
+**PICTURE** 
+
 The _Bellroy Phone Case - 3 Card_ is manufactured with premium, environmentally certified leather and polymer. Thanks to its flexible polymer and soft microfiber lining, this case will protect your iPhone 11 Pro Max from chocks and scratches.
+
+**PICTURE** 
 
 #### Features we love
 
 * Conceal with ease the 3 cards you use the most on a daily basis. Less is more!
 * Use the case magnetic closing flap as a phone stand. You will love this feature when watching a movie on your phone.
 * A compartment to store an extra sim card and sim card changing pin. A small detail travelers will appreciate.
+
+**PICTURE** 
 
 We regret to see that this case is not available for other iPhone models or for Samsung phones.
 
@@ -112,6 +120,8 @@ Here you have it. Our three favorite accessories from _Bellroy_ to declutter 202
 
 The Tech Folio
 
+**PICTURE** 
+
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
@@ -121,15 +131,15 @@ The Transit backpack
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
-* The Transit backpack
-  * View on Bellroy
-  * View on Amazon
-  * View on Huckberry
+
+  **PICTURE** 
 
 The Classic Backpack - Premium 
 
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
+
+**PICTURE** 
 
 Sign up to our newsletter to get our latest curated products
