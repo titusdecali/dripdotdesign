@@ -8,14 +8,14 @@ featured_image: ''
 ---
 # The Bellroy Hide and Seek and 2 other accessories you should own
 
-# ![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")  
+## ![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")  
 Our top 3 gear from Bellroy
 
 Are you tired of your bulky wallet? How about that poorly designed phone case? Your days of pain are over. This article will help you to upgrade your style.
 
 We handpicked the top 3 products from Bellroy you should own; including the Bellroy Hide and Seek. They look good, are durable and feel great to carry around.
 
-Bellroy was created in 2010 by a group of Australian friends who were frustrated to carry in their pocket a bulky wallet. Unable to find what they were looking for, they decided to launch Bellroy with the aim to create timeless accessories to improve the way people travel and carry their belongings.
+Bellroy was created in 2010 by a group of Australian friends who were frustrated to carry bulky wallets. Unable to find what they were looking for, they launched Bellroy with the aim to create timeless accessories to improve the way people travel and carry their belongings.
 
 ### The Bellroy Hide and Seek; a slim and minimalist wallet
 
