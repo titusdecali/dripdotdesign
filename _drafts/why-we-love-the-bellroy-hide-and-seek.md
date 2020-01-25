@@ -118,7 +118,8 @@ Here you have it. Our three favorite accessories from _Bellroy_ to declutter 202
     
   Honorable mentions:
 
-The Tech Folio
+**The Tech Folio**  
+Organize all your work gears in a sleek pouch. From a laptop, cables to your phone... Keep your work tools protected no matter where you go. 
 
 **PICTURE** 
 
