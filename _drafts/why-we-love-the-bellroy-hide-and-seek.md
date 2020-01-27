@@ -26,18 +26,18 @@ The **Bellroy Hide and Seek** wallet is an RFID protected stylish bifold wallet.
 
 Bellroy's logo was placed on the external front panel. Made with metal, the owl-shaped logo creates a nice contrast of textures between the leather and the metal.
 
-**![Bellroy Hide and Seek wallet](/uploads/Bellroy Hide and Seek owl-1.jpg "Bellroy Hide and Seek sleek wallet")**
+![](/uploads/Bellroy Hide and Seek owl-2.jpg)
 
 The internal and external leather panels together with the thread used to stitch together the wallet don't share the same color. _Bellroy_ is playing with contrasts to give a novel look to the _Bellroy_ _Hide and Seek_.
 
-**![Open Hide and Seek Bellroy wallet](/uploads/Bellroy bi-fold hide and seek wallet.png "Hide and Seek bi-fold wallet")**
+![](/uploads/Bellroy bi-fold hide and seek wallet-1.png)
 
 #### A practical solution for your cards and cash
 
 Bellroy designed the Hide and Seek wallet to allow you to carry discreetly your cash and cards.  
 In addition to its 5 visible card slots, the wallet has one additional secret slot located in the secondary cash compartment. This cash compartment is concealed by a thin leather flap, allowing you to hide with style extra banknotes and cards. Now you know why this wallet was named the Hide and Seek.
 
-![](/uploads/Bellroy best wallet.png)
+![](/uploads/Bellroy best wallet-1.png)
 
 We love this secondary cash pouch as we can use it to carry foreign currencies when traveling abroad.
 
@@ -47,13 +47,13 @@ Like all Bellroy accessories, the Hide and Seek come with 3 years of internation
 * View on Amazon
 * View on Huckberry
 
-![](/uploads/Best wallet by Bellroy.png)
+![](/uploads/Best wallet by Bellroy-1.png)
 
 ### The Bellroy Note Sleeve
 
 Carry more, without sacrificing style. If a minimalist wallet like the Hide and Seek is not enough, the **Bellroy Note Sleeve** is for you. This is not your usual bulky wallet. Thanks to its well-thought-out design, this bi-fold wallet can hold a lot, while maintaining a slim look.
 
-**![](/uploads/Bellroy Note Sleeve.png)**
+![](/uploads/Bellroy Note Sleeve-1.png)
 
 #### Small details for a strong impression
 
