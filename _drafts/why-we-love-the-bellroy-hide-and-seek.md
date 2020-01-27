@@ -64,11 +64,11 @@ Unlike the Hide and Seek, there is no steel owl on the Note Sleeve. Instead, the
 
 Open your Note Sleeve to grab one of your 3 most important cards... For us, it is a credit card, a metro card, and our gym membership. Tuck away the other cards in a compartment featuring a pull tab. You can carry up to 11 cards in the Bellroy Note Sleeve. That’s more than enough to store your credit cards, gym membership, subway pass, ID card or frequent flyer card.
 
-![](/uploads/Bellroy coin pouch.jpg)
+![](/uploads/Bellroy coin pouch-1.jpg)
 
 Inside the pouch dedicated to banknotes, you will find a compartment for your business cards as well as a pocket to store coins. This wallet has everything you need.
 
-![](/uploads/Bellroy Sleeve Note leather wallet.png)
+![](/uploads/Bellroy Sleeve Note leather wallet-1.png)
 
 The Bellroy Note Sleeve comes with 3 years of international warranty.
 
@@ -82,11 +82,11 @@ In our opinion, there is only one thing missing to make the Bellroy Note Sleeve 
 
 Phone cases are an everyday item we all use to protect our beloved smartphones. There is no scarcity in terms of brands and designs. When it comes to functionality and durability, no other brands make phone cases better than Bellroy.
 
-**PICTURE**
+**![](/uploads/Bellroy iphone 11 max case.png)**
 
 If you own an iPhone 11 Pro Max, the **Bellroy Phone Case - 3 Card** is for you. Bellroy's offer is simple; a functional and durable phone case that can conceal your 3 most important cards.
 
-**PICTURE**
+**![](/uploads/Bellroy iphone phone case.png)**
 
 The _Bellroy Phone Case - 3 Card_ is manufactured with premium, environmentally certified leather and polymer. Thanks to its flexible polymer and soft microfiber lining, this case will protect your iPhone 11 Pro Max from chocks and scratches.
 
@@ -98,7 +98,7 @@ The _Bellroy Phone Case - 3 Card_ is manufactured with premium, environmentally 
 * Use the case magnetic closing flap as a phone stand. You will love this feature when watching a movie on your phone.
 * A compartment to store an extra sim card and sim card changing pin. A small detail travelers will appreciate.
 
-**![](/uploads/Phone Case – 3 Card - Bellroy.png)PICTURE**
+![](/uploads/Phone Case – 3 Card - Bellroy-2.png)
 
 We regret to see that this case is not available for other iPhone models or for Samsung phones.
 
