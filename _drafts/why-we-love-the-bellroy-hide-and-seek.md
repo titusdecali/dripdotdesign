@@ -1,6 +1,6 @@
 ---
 title: Why we love the Bellroy Hide and Seek
-date: 2020-01-26 15:00:00 +0000
+date: 2020-01-24 15:00:00 +0000
 description: We picked up our top 3 accessories from Bellroy, including the Bellroy
   Hide and Seek. Read our article to declutter your everyday carry.
 featured_image: "/uploads/Bellroy Hide and Seek.png"
