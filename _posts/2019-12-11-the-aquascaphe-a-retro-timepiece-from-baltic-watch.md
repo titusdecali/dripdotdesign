@@ -1,6 +1,6 @@
 ---
 title: 'Baltic Watch''s First Diving Watch - The Aquascaphe '
-date: 2019-12-11 15:00:00 +0000
+date: 2019-12-11T15:00:00.000+00:00
 description: Review of the Aquascaphe diving watch. A vintage-inspired timepiece created
   by the french microbrand Baltic Watch.
 featured_image: "/uploads/The Aquascaphe diving watch.png"
@@ -71,7 +71,7 @@ Compared to other microbrands' dive watches, the Aquascaphe value proposition is
 
 If wearing a small case dive watch is your jam, this 38mm diver could be for you. On the other hand, if you are looking for more affordable options buying your diver on Kickstarter could be a good way to get a quality watch at an affordable price.
 
-You don't know which watch to buy? Sign up for our newsletter. We will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
+You don't know which watch to buy? [Sign up for our newsletter](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter"). We will review upcoming timepieces debuting on crowdfunding platforms such as Kickstarter and Indigogo.
 
 ### To sum up
 
