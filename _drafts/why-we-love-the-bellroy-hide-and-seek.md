@@ -53,29 +53,31 @@ Like all Bellroy accessories, the Hide and Seek come with 3 years of internation
 
 Carry more, without sacrificing style. If a minimalist wallet like the Hide and Seek is not enough, the **Bellroy Note Sleeve** is for you. This is not your usual bulky wallet. Thanks to its well-thought-out design, this bi-fold wallet can hold a lot, while maintaining a slim look.
 
-**PICTURE**
+**![](/uploads/Bellroy Note Sleeve.png)**
 
 #### Small details for a strong impression
 
 This RFID protect wallet is made with environmentally friendly vegetable-tanned leather, available in different color declinations. Like with the Hide and Seek, the Note Sleeve is made with two different leather colors (external/internal) to create a nice contrast of colors.  
 Unlike the Hide and Seek, there is no steel owl on the Note Sleeve. Instead, the brand Bellroy is stamped on the leather.
 
-**PICTURE**
-
 #### When style meets practicality
 
 Open your Note Sleeve to grab one of your 3 most important cards... For us, it is a credit card, a metro card, and our gym membership. Tuck away the other cards in a compartment featuring a pull tab. You can carry up to 11 cards in the Bellroy Note Sleeve. That’s more than enough to store your credit cards, gym membership, subway pass, ID card or frequent flyer card.
 
+![](/uploads/Bellroy coin pouch.jpg)
+
 Inside the pouch dedicated to banknotes, you will find a compartment for your business cards as well as a pocket to store coins. This wallet has everything you need.
 
-**PICTURE**
+![](/uploads/Bellroy Sleeve Note leather wallet.png)
 
 The Bellroy Note Sleeve comes with 3 years of international warranty.
 
-* In our opinion, there is only one thing missing to make the Bellroy Note Sleeve the best wallet in the market; a small compartment to carry a micro USB or an additional sim card (for the travelers).
+In our opinion, there is only one thing missing to make the Bellroy Note Sleeve the best wallet in the market; a small compartment to carry a micro USB or an additional sim card (for the travelers).
+
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
+* 
 
 ### The Bellroy Phone Case - 3 Card
 
