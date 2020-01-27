@@ -22,7 +22,7 @@ Bellroy was created in 2010 by a group of Australian friends who were frustrated
 
 The **Bellroy Hide and Seek** wallet is an RFID protected stylish bifold wallet. This slim wallet is made with top-grade environmentally-friendly vegetable-tanned leather. Unlike other wallets made with hard leather, the **_Bellroy Hide and Seek_** features a soft leather that will take a nice patina over time. This will give a unique look to your everyday carry (EDC).
 
-![The hide and seek wallet by Bellroy](/uploads/Bellroy Hide and Seek.png "Hide and Seek wallet ")
+![](/uploads/Bellroy Hide and Seek-1.png)
 
 Bellroy's logo was placed on the external front panel. Made with metal, the owl-shaped logo creates a nice contrast of textures between the leather and the metal.
 
@@ -77,7 +77,6 @@ In our opinion, there is only one thing missing to make the Bellroy Note Sleeve 
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
-* 
 
 ### The Bellroy Phone Case - 3 Card
 
@@ -91,7 +90,7 @@ If you own an iPhone 11 Pro Max, the **Bellroy Phone Case - 3 Card** is for you.
 
 The _Bellroy Phone Case - 3 Card_ is manufactured with premium, environmentally certified leather and polymer. Thanks to its flexible polymer and soft microfiber lining, this case will protect your iPhone 11 Pro Max from chocks and scratches.
 
-**PICTURE**
+**![](/uploads/Bellroy iphone phone case.png)**
 
 #### Features we love
 
@@ -99,7 +98,7 @@ The _Bellroy Phone Case - 3 Card_ is manufactured with premium, environmentally 
 * Use the case magnetic closing flap as a phone stand. You will love this feature when watching a movie on your phone.
 * A compartment to store an extra sim card and sim card changing pin. A small detail travelers will appreciate.
 
-**PICTURE**
+**![](/uploads/Phone Case – 3 Card - Bellroy.png)PICTURE**
 
 We regret to see that this case is not available for other iPhone models or for Samsung phones.
 
