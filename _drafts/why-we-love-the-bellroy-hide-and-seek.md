@@ -128,13 +128,14 @@ Organize all your work gears in a sleek pouch. From a laptop, cables to your pho
 
 ![](/uploads/Bellroy Transit Backpack.jpg)
 
-**The Classic Backpack - Premium**
+**The Classic Backpack - Premium  
+**Made with premium leather, this best selling backpack from Bellroy is your perfect travel companion. 
 
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
 
-**PICTURE**
+**![](/uploads/The Classic Backpack - Premium by Bellroy.jpg)**
 
 Sign up to our newsletter to get our latest curated products
 
