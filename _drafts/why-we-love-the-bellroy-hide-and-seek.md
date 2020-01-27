@@ -137,6 +137,6 @@ Organize all your work gears in a sleek pouch. From a laptop, cables to your pho
 
 **![](/uploads/The Classic Backpack - Premium by Bellroy.jpg)**
 
-Sign up to our newsletter to get our latest curated products
+[Sign up to our newsletter](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products
 
 _All pictures used for this review are from Bellroy_
