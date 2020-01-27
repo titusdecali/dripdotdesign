@@ -113,21 +113,22 @@ Here you have it. Our three favorite accessories from _Bellroy_ to declutter 202
 **The Tech Folio**  
 Organize all your work gears in a sleek pouch. From a laptop, cables to your phone... Keep your work tools protected no matter where you go.
 
-**PICTURE**
+**![](/uploads/Bellroy Tech Folio.jpg)**
 
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
 
-The Transit backpack
+**The Transit backpack  
+**The ideal backpack for urban travelers. Carry with you your work gear together with enough cloths for that short trip out of town.  
 
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
 
-  **PICTURE**
+![](/uploads/Bellroy Transit Backpack.jpg)
 
-The Classic Backpack - Premium
+**The Classic Backpack - Premium**
 
 * View on Bellroy
 * View on Amazon
@@ -136,3 +137,5 @@ The Classic Backpack - Premium
 **PICTURE**
 
 Sign up to our newsletter to get our latest curated products
+
+_All pictures used for this review are from Bellroy_
