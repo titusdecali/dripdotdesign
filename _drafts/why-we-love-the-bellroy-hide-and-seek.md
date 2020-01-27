@@ -3,7 +3,7 @@ title: Why we love the Bellroy Hide and Seek
 date: 
 description: We picked up our top 3 accessories from Bellroy, including the Bellroy
   Hide and Seek. Read our article to declutter your everyday carry.
-featured_image: ''
+featured_image: "/uploads/Bellroy Hide and Seek.png"
 
 ---
 # The Bellroy Hide and Seek and 2 other accessories you should own
@@ -26,18 +26,18 @@ The **Bellroy Hide and Seek** wallet is an RFID protected stylish bifold wallet.
 
 Bellroy's logo was placed on the external front panel. Made with metal, the owl-shaped logo creates a nice contrast of textures between the leather and the metal.
 
-**![](/uploads/Bellroy Hide and Seek owl-1.jpg)**
+**![Bellroy Hide and Seek wallet](/uploads/Bellroy Hide and Seek owl-1.jpg "Bellroy Hide and Seek sleek wallet")**
 
 The internal and external leather panels together with the thread used to stitch together the wallet don't share the same color. _Bellroy_ is playing with contrasts to give a novel look to the _Bellroy_ _Hide and Seek_.
 
-**![](/uploads/Bellroy bi-fold hide and seek wallet.png)**
+**![Open Hide and Seek Bellroy wallet](/uploads/Bellroy bi-fold hide and seek wallet.png "Hide and Seek bi-fold wallet")**
 
 #### A practical solution for your cards and cash
 
 Bellroy designed the Hide and Seek wallet to allow you to carry discreetly your cash and cards.  
 In addition to its 5 visible card slots, the wallet has one additional secret slot located in the secondary cash compartment. This cash compartment is concealed by a thin leather flap, allowing you to hide with style extra banknotes and cards. Now you know why this wallet was named the Hide and Seek.
 
-**PICTURE**
+![](/uploads/Bellroy best wallet.png)
 
 We love this secondary cash pouch as we can use it to carry foreign currencies when traveling abroad.
 
@@ -47,7 +47,7 @@ Like all Bellroy accessories, the Hide and Seek come with 3 years of internation
 * View on Amazon
 * View on Huckberry
 
-  **PICTURE**
+![](/uploads/Best wallet by Bellroy.png)
 
 ### The Bellroy Note Sleeve
 
