@@ -90,8 +90,6 @@ If you own an iPhone 11 Pro Max, the **Bellroy Phone Case - 3 Card** is for you.
 
 The _Bellroy Phone Case - 3 Card_ is manufactured with premium, environmentally certified leather and polymer. Thanks to its flexible polymer and soft microfiber lining, this case will protect your iPhone 11 Pro Max from chocks and scratches.
 
-**![](/uploads/Bellroy iphone phone case.png)**
-
 #### Features we love
 
 * Conceal with ease the 3 cards you use the most on a daily basis. Less is more!
@@ -119,8 +117,8 @@ Organize all your work gears in a sleek pouch. From a laptop, cables to your pho
 * View on Amazon
 * View on Huckberry
 
-**The Transit backpack  
-**The ideal backpack for urban travelers. Carry with you your work gear together with enough cloths for that short trip out of town.  
+\**The Transit backpack  
+\**The ideal backpack for urban travelers. Carry with you your work gear together with enough cloths for that short trip out of town.
 
 * View on Bellroy
 * View on Amazon
@@ -128,8 +126,8 @@ Organize all your work gears in a sleek pouch. From a laptop, cables to your pho
 
 ![](/uploads/Bellroy Transit Backpack.jpg)
 
-**The Classic Backpack - Premium  
-**Made with premium leather, this best selling backpack from Bellroy is your perfect travel companion. 
+\**The Classic Backpack - Premium  
+\**Made with premium leather, this best selling backpack from Bellroy is your perfect travel companion.
 
 * View on Bellroy
 * View on Amazon
