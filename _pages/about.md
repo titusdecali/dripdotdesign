@@ -1,5 +1,5 @@
 ---
-title: About Drip.design
+title: About
 subtitle: Curating things you'll love using everyday
 description: Drip curates things you'll love using everyday
 featured_image: "/images/demo/demo-landscape.jpg"
