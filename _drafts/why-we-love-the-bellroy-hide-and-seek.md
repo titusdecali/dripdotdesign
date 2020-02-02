@@ -112,8 +112,7 @@ Organize all your work gears in a sleek pouch. From your laptop, cables to your 
 
 **![](/uploads/Bellroy Tech Folio.jpg)**
 
-* View on Bellroy
-* View on Amazon
+* [View on Amazon](https://amzn.to/2ubgm1V)
 * View on Huckberry
 
 ### The Transit backpack
@@ -121,22 +120,20 @@ Organize all your work gears in a sleek pouch. From your laptop, cables to your 
   
 The ideal backpack for urban travelers. Carry with you your work gear together with enough cloths for that short trip out of town.
 
-* View on Bellroy
-* View on Amazon
-* View on Huckberry
-
 ![](/uploads/Bellroy Transit Backpack.jpg)
 
-### The Classic Backpack - Premium
-
-  
-Made with premium leather, this best selling backpack from Bellroy is your perfect travel companion.
-
 * View on Bellroy
 * View on Amazon
 * View on Huckberry
 
-**![](/uploads/The Classic Backpack - Premium by Bellroy.jpg)**
+### The Classic Backpack
+
+Made with premium leather, this best selling backpack from Bellroy is your perfect travel companion.
+
+![](/uploads/Bellroy Classic Backpack.jpg)
+
+* [View on Amazon](https://amzn.to/2Ola1bf)
+* View on Huckberry
 
 [Sign up to our newsletter](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products
 
