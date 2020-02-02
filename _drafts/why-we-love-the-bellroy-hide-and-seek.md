@@ -43,8 +43,7 @@ We love this secondary cash pouch as we can use it to carry foreign currencies w
 
 Like all Bellroy accessories, the Hide and Seek come with 3 years of international warranty.
 
-* View on Bellroy
-* View on Amazon
+* [View on Amazon](https://amzn.to/38XLhxt)
 * View on Huckberry
 
 ![](/uploads/Best wallet by Bellroy-1.png)
@@ -75,7 +74,7 @@ The Bellroy Note Sleeve comes with 3 years of international warranty.
 In our opinion, there is only one thing missing to make the Bellroy Note Sleeve the best wallet in the market; a small compartment to carry a micro USB or an additional sim card (for the travelers).
 
 * View on Bellroy
-* View on Amazon
+* [View on Amazon](https://amzn.to/2OfeJHp)
 * View on Huckberry
 
 ### The Bellroy Phone Case - 3 Card
@@ -102,13 +101,12 @@ We regret to see that this case is not available for other iPhone models or for 
 
 Here you have it. Our three favorite accessories from _Bellroy_ to declutter 2020 and focus your energy on what matters.
 
-* View on Bellroy
-* View on Amazon
+* [View on Amazon](https://amzn.to/2Se46We)
 * View on Huckberry
 
-  Honorable mentions:
+### Honorable mentions
 
-**The Tech Folio**  
+  
 Organize all your work gears in a sleek pouch. From a laptop, cables to your phone... Keep your work tools protected no matter where you go.
 
 **![](/uploads/Bellroy Tech Folio.jpg)**
@@ -137,4 +135,4 @@ Organize all your work gears in a sleek pouch. From a laptop, cables to your pho
 
 [Sign up to our newsletter](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products
 
-_All pictures used for this review are from Bellroy_
+**_Source_**_: All pictures used for this review are from Bellroy_
