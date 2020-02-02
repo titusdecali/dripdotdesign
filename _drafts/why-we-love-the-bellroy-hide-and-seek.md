@@ -35,7 +35,7 @@ The internal and external leather panels together with the thread used to stitch
 #### A practical solution for your cards and cash
 
 Bellroy designed the Hide and Seek wallet to allow you to carry discreetly your cash and cards.  
-In addition to its 5 visible card slots, the wallet has one additional secret slot located in the secondary cash compartment. This cash compartment is concealed by a thin leather flap, allowing you to hide with style extra banknotes and cards. Now you know why this wallet was named the Hide and Seek.
+In addition to its 5 visible card slots, the wallet has one additional secret slot located in the secondary cash compartment. This cash compartment is concealed by a thin leather flap, allowing you to hide with style extra banknotes and cards. Now you know why this wallet was named the **Hide and Seek**.
 
 ![](/uploads/Bellroy best wallet-1.png)
 
