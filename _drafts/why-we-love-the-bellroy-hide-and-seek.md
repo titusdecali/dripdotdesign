@@ -10,7 +10,7 @@ featured_image: "/uploads/Bellroy Hide and Seek.png"
 
 ## ![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")
 
-Our top 3 gear from Bellroy
+## Our top 3 gear from Bellroy
 
 Are you tired of your bulky wallet? How about that poorly designed phone case? Your days of pain are over. This article will help you to upgrade your style.
 
@@ -73,7 +73,6 @@ The Bellroy Note Sleeve comes with 3 years of international warranty.
 
 In our opinion, there is only one thing missing to make the Bellroy Note Sleeve the best wallet in the market; a small compartment to carry a micro USB or an additional sim card (for the travelers).
 
-* View on Bellroy
 * [View on Amazon](https://amzn.to/2OfeJHp)
 * View on Huckberry
 
@@ -117,18 +116,16 @@ Organize all your work gears in a sleek pouch. From your laptop, cables to your 
 
 ### The Transit backpack
 
-  
 The ideal backpack for urban travelers. Carry with you your work gear together with enough cloths for that short trip out of town.
 
 ![](/uploads/Bellroy Transit Backpack.jpg)
 
-* View on Bellroy
-* View on Amazon
+* [View on Amazon](https://amzn.to/2uUm7RK)
 * View on Huckberry
 
 ### The Classic Backpack
 
-Made with premium leather, this best selling backpack from Bellroy is your perfect travel companion.
+With its large storing capacity (20 liters) and made with recycled plastic bottles, the Classic Backpack is your perfect travel companion.
 
 ![](/uploads/Bellroy Classic Backpack.jpg)
 
