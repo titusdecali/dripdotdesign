@@ -6,7 +6,7 @@ description: We picked up our top 3 accessories from Bellroy, including the Bell
 featured_image: "/uploads/Bellroy Hide and Seek.png"
 
 ---
-# The Bellroy Hide and Seek & 2 other accessories you should own
+# The Bellroy Hide and Seek & 2 Other Accessories You Should Own
 
 ## ![](/uploads/Bellroy accessories .png "Bellroy everyday accessories. Source: Bellroy")
 
