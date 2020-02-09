@@ -33,6 +33,11 @@
           var ml_account = ml('accounts', '1853646', 'o5a9j1t4x7', 'load');
           </script>
     <!-- End MailerLite Universal -->
+    <!-- MailerLite Popup @click script -->
+    <script>
+      var ml_webform_1766770 = ml_account('webforms', '1766770', 'n7l6a6', 'load');
+      ml_webform_1766770('animation', 'fadeIn');
+  </script>
     <!-- Icons -->
     <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/solid.js" integrity="sha384-GXi56ipjsBwAe6v5X4xSrVNXGOmpdJYZEEh/0/GqJ3JTHsfDsF8v0YQvZCJYAiGu" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/brands.js" integrity="sha384-0inRy4HkP0hJ038ZyfQ4vLl+F4POKbqnaUB6ewmU4dWP0ki8Q27A0VFiVRIpscvL" crossorigin="anonymous"></script>
@@ -55,36 +60,24 @@
   </head>
 
   <body class="loading ajax-loading" data-site-url="http://localhost:4000" data-page-url="/about"> <header class="header">
-
-	<div class="wrap">
-
-		
-		<a href="/" class="header__logo">
-			<img src="/images/logo.svg" class="header__logo__img">
-		</a>
-		
-
-		<div class="menu">
-			<div class="menu__toggle js-menu-toggle">
-				<div class="menu__toggle__icon"><span></span></div>
-			</div>
-			<div class="menu__wrap">
-				<ul class="menu__list">
-					
-					<li class="menu__list__item">
-						<a href="/" class="menu__list__item__link">Blog</a>
-					</li>
-					
-					<li class="menu__list__item">
-						<a href="/contact" class="menu__list__item__link">Contact</a>
-					</li>
-					
-				</ul>
-			</div>
-		</div>
-
-	</div>
-
+  <div class="wrap">  <a href="/" class="header__logo">
+      <img src="/images/logo.svg" class="header__logo__img">
+    </a>  <div class="menu">
+      <div class="menu__toggle js-menu-toggle">
+        <div class="menu__toggle__icon"><span></span></div>
+      </div>
+      <div class="menu__wrap">
+        <ul class="menu__list">  <li class="menu__list__item">
+            <a href="/" class="menu__list__item__link">Blog</a>
+          </li>  <li class="menu__list__item">
+            <a href="/contact" class="menu__list__item__link">Contact</a>
+          </li>  <li class="menu__list__item">
+            <a href="#" class="menu__list__item__link" onclick="ml_webform_1766770('show')">Subscribe</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </header> <div class="loader"><svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
         <circle cx="15" cy="15" r="15">
           <animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" />
