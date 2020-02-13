@@ -22,7 +22,9 @@ On paper, this sounds nice. Maximum results with minimum efforts. In practice, y
 
 ### Your grandfather did it the right way
 
-Your skin can't bear the friction of a multiple blade razor. The single blade razor your grandfather used is the right way a man should shave his face.
+Your skin can't bear the friction of multiple blades scraping your face. 
+
+What Supply offers you is simple. They didn't reinvent the wheel. The single blade razor your grandfather used is the right way a man should shave his face.
 
 When X and X, the two founders of Supply realized that the way men are shaving their faces was not the right way to do it, they decided to launch the company Supply to help men around the world to start their day the right way.
 
