@@ -22,11 +22,11 @@ On paper, this sounds nice. Maximum results with minimum efforts. In practice, y
 
 ### Your grandfather did it the right way
 
-Your skin can't bear the friction of multiple blades scraping your face. 
+Your skin can't bear the friction created by a multiple blades razor scraping your face each time you shave. 
 
-When Patrick and Jennifer, realized this, they decided to launch the company Supply to assist men to start their day right with the help of a single blade razor. 
+When Patrick and Jennifer, realized this, they took massive action and launched Supply to assist men to start their day the right way with the help of a single blade razor. 
 
-Supply didn't reinvent the wheel. Patrick and Jennifer upgraded took an existing and working grooming tool, by redesigning it and using the best materials available. 
+Supply didn't reinvent the wheel. Patrick and Jennifer upgraded took an existing and working grooming tool, by redesigning it and using the best materials available to build it. 
 
 > The single blade razor your grandfather used is the right way a man should shave his face. 
 
