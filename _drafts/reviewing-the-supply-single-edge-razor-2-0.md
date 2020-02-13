@@ -28,6 +28,8 @@ When Patrick and Jennifer, realized this, they took massive action and launched 
 
 Supply didn't reinvent the wheel. Patrick and Jennifer upgraded took an existing and working grooming tool, by redesigning it and using the best materials available to build it.
 
+![](/uploads/Supply Single Edge Razor 2.0..jpg)
+
 > The single blade razor your grandfather used is the right way a man should shave his face.
 
 The Supply Single Edge Razor 2.0, is a single blade razor featuring premium sharp blades that will take care of facial hair without creating any bumps.
