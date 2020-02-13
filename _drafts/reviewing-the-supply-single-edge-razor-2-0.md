@@ -1,6 +1,6 @@
 ---
 title: Reviewing the Supply Single Edge Razor 2.0
-date: 2020-02-13 15:00:00 +0000
+date: 2020-02-12 15:00:00 +0000
 description: We reviewed the Supply Single Edge Razor 2.0. Read why we believe this
   is the last razor your will ever buy.
 featured_image: "/uploads/Supply Razor.jpg"
