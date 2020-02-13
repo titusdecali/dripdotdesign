@@ -24,9 +24,9 @@ On paper, this sounds nice. Maximum results with minimum efforts. In practice, y
 
 Your skin can't bear the friction of multiple blades scraping your face. 
 
-What Supply offers you is simple. They didn't reinvent the wheel. The single blade razor your grandfather used is the right way a man should shave his face.
+When Patrick and Jennifer, realized this, they decided to launch the company Supply. 
 
-When X and X, the two founders of Supply realized that the way men are shaving their faces was not the right way to do it, they decided to launch the company Supply to help men around the world to start their day the right way.
+ to help men around the world to start their day the right way.
 
 The Supply Single Edge Razor 2.0, is a single blade razor featuring premium sharp blades that will take care of facial hair without creating any bumps.
 
