@@ -51,7 +51,7 @@ We love the design of this product. A blend of simplicity with a futuristic touc
 
 **Durability**: the Supply single blades are thicker than the ones you find in your local supermarket or on Amazon. Because the blades are thicker, their sharpness and lifespan are longer. One blade allows 5 to 10 clean and comfortable shaves, if not more.
 
-**Customization**: Supply designed the **Supply Single Edge Razor 2.0** with 3 different blade settings, allowing you to decide from a sensitive shave to an aggressive shave.
+**Customization**: Supply designed the **Supply Single Edge Razor 2.0** with 3 different blade settings, allowing you to select from a sensitive shave to an aggressive shave.
 
 **Affordability**: On average, with a shave club, you will spend US$9/month. That's US$108 per year. After using your Supply Single Edge Razor for more than 1 year, you will spend in blades only US$24 per year (US$6/3 months).
 
