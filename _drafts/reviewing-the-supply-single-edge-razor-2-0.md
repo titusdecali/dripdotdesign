@@ -57,7 +57,7 @@ What’s so special about the Supply Single Edge Razor 2.0?
 
 ### 
 
-The 5 advantages of the Supply Single Edge Razor 2.0
+### The 5 advantages of the Supply Single Edge Razor 2.0
 
 If you are still not convinced by the advantage of the Supply Single Edge Razor 2.0, we compared below the Supply Single Edge Razor 2.0 with a multiple blades razor you can get from a shave club or from your local supermarket.
 
