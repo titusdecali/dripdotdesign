@@ -36,18 +36,16 @@ The result; a smooth skin day after day.
 
 ### Aerospace-grade materials for a clean shave
 
-The Supply Single Edge Razor 2.0 is available in two different materials.
+The Supply Single Edge Razor 2.0 is available in two different premium materials.
 
 * Alloy razors coated with aerospace-grade PVD chrome for maximum durability.
 * 100% solid stainless steel razors for comfort and sturdiness.
 
-We love the design of this product. A blend of minimalism with a futuristic touch. We could see this razor in the house of a minimalist architect or in the USS Enterprise (Startrek).
-
-Start your day with confidence thanks to a clean and painless shave with Supply Razor.
+We love the design of this product. A blend of simplicity with a futuristic touch. We could see this razor in the house of a minimalist architect or used by the men of the USS Enterprise (Startrek).
 
 ### 
 
-What’s so special about the Supply Single Edge Razor 2.0?
+### What’s so special about the Supply Single Edge Razor 2.0?
 
 **Safety**: designed to accept _injector style_ blades. Simple, safe and efficient.
 
