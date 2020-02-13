@@ -3,7 +3,7 @@ title: Reviewing the Supply Single Edge Razor 2.0
 date: 
 description: We reviewed the Supply Single Edge Razor 2.0. Read why we believe this
   is the last razor your will ever buy.
-featured_image: ''
+featured_image: "/uploads/Supply Razor.jpg"
 
 ---
 # Supply Single Edge Razor 2.0; is this the last razor you'll ever use?
@@ -18,17 +18,17 @@ While browsing video clips of Shark Tank on Youtube, we came across the startup 
 
 Men have been influenced year after year by large FMCG corporations telling them that they should use razors fitted with multiple blades (from up to five blades). As a result, men believed that such blades would offer them the best shaving experience, leaving their faces smooth and flawless...
 
-On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations. 
+On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations.
 
 ### Your grandfather did it the right way
 
-Your skin can't bear the friction created by a multiple blades razor scraping your face each time you shave. 
+Your skin can't bear the friction created by a multiple blades razor scraping your face each time you shave.
 
-When Patrick and Jennifer, realized this, they took massive action and launched Supply to assist men to start their day the right way with the help of a single blade razor. 
+When Patrick and Jennifer, realized this, they took massive action and launched Supply to assist men to start their day the right way with the help of a single blade razor.
 
-Supply didn't reinvent the wheel. Patrick and Jennifer upgraded took an existing and working grooming tool, by redesigning it and using the best materials available to build it. 
+Supply didn't reinvent the wheel. Patrick and Jennifer upgraded took an existing and working grooming tool, by redesigning it and using the best materials available to build it.
 
-> The single blade razor your grandfather used is the right way a man should shave his face. 
+> The single blade razor your grandfather used is the right way a man should shave his face.
 
 The Supply Single Edge Razor 2.0, is a single blade razor featuring premium sharp blades that will take care of facial hair without creating any bumps.
 
@@ -73,5 +73,7 @@ If you are still not convinced by the advantage of the Supply Single Edge Razor 
 
 | --- | --- | --- |
 | Customize your shave | No customization | 3 available presets… From a sensitive shave to an aggressive shave. |
+
+![](/uploads/Supply Razor-1.jpg)
 
 For an initial fee of US$75 for the razor and 3 months' worth of blades (8 blades), the _Supply Single Edge Razor 2.0_, offers a clean shave, saves you money and will look good in your bathroom. What can you ask more?
