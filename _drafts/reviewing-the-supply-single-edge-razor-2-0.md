@@ -77,3 +77,9 @@ If you are still not convinced by the advantage of the Supply Single Edge Razor 
 ![Supply Single Edge Razor 2.0](/uploads/Supply Razor-1.jpg "Supply Single Edge Razor 2.0")
 
 For an initial fee of US$75 for the razor and 3 months' worth of blades (8 blades), the _Supply Single Edge Razor 2.0_, offers a clean shave, saves you money and will look good in your bathroom. What can you ask more?
+
+[**Sign up to our newsletter**](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products
+
+**_Source_**_: All pictures used for this review are from Supply_
+
+If you enjoyed this review, we invite you to check out our review of the [Bellroy Hide and Seek](https://drip.design/2020/01/24/why-we-love-the-bellroy-hide-and-seek.html "Bellroy Hide and Seek").
