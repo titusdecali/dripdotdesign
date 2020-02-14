@@ -18,7 +18,7 @@ While browsing video clips of Shark Tank on Youtube, we came across the startup 
 
 Men have been influenced year after year by large FMCG corporations telling them that they should use razors fitted with multiple blades (from up to five blades). As a result, men believed that such blades would offer them the best shaving experience, leaving their faces smooth and flawless...
 
-On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations. 
+On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations.
 
 ![](/uploads/Supply Single Edge Razor 2.0 razor.png)
 
@@ -67,16 +67,12 @@ If you are still not convinced by the advantage of the Supply Single Edge Razor 
 
 | --- | --- | --- |
 |  | Multiple blades | Single Edge Razor 2.0 |
-| Made to last | Built to be disposable | Made with aerospace-grade 100% stainless steel or aerospace-grade PVD chromed alloy. |
-| Environmentally friendly | Your plastic razor will most likely end up in a landfill | Designed to last your whole life. |
-| Good for your skin | Creates frictions due to the multiple blades. This type of razer is designed to shave below the surface of your skin. Expect skin irritations, ingrown hairs, and bumps. | Thanks to the razor weight and single blade, the Single Edge Razor 2.0 cuts the hair at skin level, without any friction. Your skin will appreciate this. |
-| Sharp and sturdy blades | Multiple blades clog easily, resulting in fast wear of the blades | Thicker blades lasting from five to 10 shaves, if not longer. |
-
-| --- | --- | --- |
-| Cost advantage | Shave club: spend on average US$9/month to buy blades. | Buy a life-lasting quality handle, followed by US$6/3 months for the blades |
-
-| --- | --- | --- |
-| Customize your shave | No customization | 3 available presets… From a sensitive shave to an aggressive shave. |
+| Made to last | Built to be disposable  | Made with aerospace-grade 100% stainless steel or aerospace-grade PVD chromed alloy.  |
+| Environmentally friendly | Your plastic razor will most likely end up in a landfill.  | Build to last  |
+| Good for your skin | Multi blades create friction. Designed to shave below the surface of your skin. Expect skin irritations, ingrown hairs, and bumps.  | The Single Edge Razor 2.0 cuts the hair at skin level, without any friction. Your skin will appreciate this. |
+| Sharp and sturdy blades | Hairs will clog your multi-blade razor. This will damage the blades easily. | Thicker blades lasting from five to ten shaves, if not longer. |
+| Save money | Shave club: spend on average US$9/month to buy blades. | Supply: buy a life-lasting quality handle, followed by US$6/3 months for the blades. |
+| Customize your shave | No customization is available.  | 3 available presets… From a sensitive shave to an aggressive shave. |
 
 ![](/uploads/Supply Razor-1.jpg)
 
