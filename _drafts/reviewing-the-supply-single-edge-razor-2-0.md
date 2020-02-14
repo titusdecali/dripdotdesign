@@ -20,7 +20,7 @@ Men have been influenced year after year by large FMCG corporations telling them
 
 On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations.
 
-![](/uploads/Supply Single Edge Razor 2.0 razor.png)
+![Supply Single Edge Razor 2.0.](/uploads/Supply Single Edge Razor 2.0 razor.png "Supply razor ")
 
 ### Your grandfather did it the right way
 
@@ -30,7 +30,7 @@ When Patrick and Jennifer, realized this, they took massive action and launched 
 
 Supply didn't reinvent the wheel. Patrick and Jennifer upgraded took an existing and working grooming tool, by redesigning it and using the best materials available to build it.
 
-![](/uploads/Supply Single Edge Razor 2.0..jpg)
+![Supply Single Edge Razor 2.0. review](/uploads/Supply Single Edge Razor 2.0..jpg "Shaving with Supply razor")
 
 > The single blade razor your grandfather used is the right way a man should shave his face.
 
@@ -47,7 +47,7 @@ The Supply Single Edge Razor 2.0 is available in two different premium materials
 
 We love the design of this product. A blend of simplicity with a futuristic touch. We could see this razor in the house of a minimalist architect or used by the men of the USS Enterprise (Startrek).
 
-### ![](/uploads/Supply Single Edge Razor 2.0 razor blades.png)
+### ![Reviewing the Supply Single Edge Razor 2.0](/uploads/Supply Single Edge Razor 2.0 razor blades.png "Supply razor review")
 
 ### What’s so special about the Supply Single Edge Razor 2.0?
 
@@ -74,6 +74,6 @@ If you are still not convinced by the advantage of the Supply Single Edge Razor 
 | Save money | Shave club: spend on average US$9/month to buy blades. | Supply: buy a life-lasting quality handle, followed by US$6/3 months for the blades. |
 | Customize your shave | No customization is available.  | 3 available presets… From a sensitive shave to an aggressive shave. |
 
-![](/uploads/Supply Razor-1.jpg)
+![Supply Single Edge Razor 2.0](/uploads/Supply Razor-1.jpg "Supply Single Edge Razor 2.0")
 
 For an initial fee of US$75 for the razor and 3 months' worth of blades (8 blades), the _Supply Single Edge Razor 2.0_, offers a clean shave, saves you money and will look good in your bathroom. What can you ask more?
