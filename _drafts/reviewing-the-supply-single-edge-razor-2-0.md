@@ -18,7 +18,7 @@ While browsing video clips of Shark Tank on Youtube, we came across the startup 
 
 Men have been influenced year after year by large FMCG corporations telling them that they should use razors fitted with multiple blades (from up to five blades). As a result, men believed that such blades would offer them the best shaving experience, leaving their faces smooth and flawless...
 
-On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations.
+On paper, this sounds nice. Maximum results with minimum efforts. In practice, you should not expect a pleasant shaving experience resulting in smooth skin. A multiple blades razor is designed to shave your facial hair under the skin... With one passage, your skin will be "attacked'' by up to 5 blades. This will result in ingrown hair, bumps, and skin irritations. 
 
 ![](/uploads/Supply Single Edge Razor 2.0 razor.png)
 
