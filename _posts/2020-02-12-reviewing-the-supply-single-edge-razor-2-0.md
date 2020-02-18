@@ -12,7 +12,7 @@ featured_image: "/uploads/Supply Razor.jpg"
 
 While browsing video clips of Shark Tank on Youtube, we came across the startup Supply and its latest razor; the Supply Single Edge Razor 2.0. Intrigued by the sleek design of this grooming tool, we decided to take a closer look at the Supply Single Edge Razor 2.0.
 
-<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ](http://www.youtube.com/embed/dQw4w9WgXcQ "http://www.youtube.com/embed/dQw4w9WgXcQ")" frameborder="0" allowfullscreen></iframe>
+    <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
 
 ### Multiple blades razors are bad for you
 
@@ -24,7 +24,7 @@ On paper, this sounds nice. Maximum results with minimum efforts. In practice, y
 
 ### Your grandfather did it the right way
 
-Your skin can't bear the friction created by a multiple blades razor scraping your face each time you shave.
+Your skin can't bear the friction created by a multi-blade razor scraping your face each time you shave.
 
 When Patrick and Jennifer, realized this, they took massive action and launched Supply to assist men to start their day the right way with the help of a single blade razor.
 
@@ -63,7 +63,7 @@ We love the design of this product. A blend of simplicity with a futuristic touc
 
 ### The 5 advantages of the Supply Single Edge Razor 2.0
 
-If you are still not convinced by the advantage of the Supply Single Edge Razor 2.0, we compared below the Supply Single Edge Razor 2.0 with a multiple blades razor you can get from a shave club or from your local supermarket.
+If you are still not convinced by the advantages of the Supply Single Edge Razor 2.0, we compared below the Supply Single Edge Razor 2.0 with a multiple blades razor you can get from a shave club or from your local supermarket.
 
 | --- | --- | --- |
 |  | Multiple blades | Single Edge Razor 2.0 |
