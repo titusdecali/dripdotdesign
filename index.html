@@ -19,10 +19,7 @@ featured_image: "/images/social.jpg"
     <article class="blog-post">
       <a class="blog-post__link" href="{{ post.url | relative_url }}">
         <div class="blog-post__image">
-          <img
-            src="{{ post.featured_image | relative_url }}"
-            alt="{{ post.title }}"
-          />
+          <img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" />
         </div>
 
         <div class="blog-post__content">
@@ -45,21 +42,21 @@ featured_image: "/images/social.jpg"
 <section class="pagination">
   <div class="wrap">
     {% if paginator.previous_page %}
-    <a
-      href="{{ paginator.previous_page_path | relative_url }}"
-      class="button button--light pagination__prev"
-      ><i class="fa fa-angle-left" aria-hidden="true"></i>
-      <span>Newer Posts</span></a
-    >
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="button button--light pagination__prev"><i
+        class="fa fa-angle-left" aria-hidden="true"></i>
+      <span>Newer Posts</span></a>
     {% endif %} {% if paginator.next_page %}
-    <a
-      href="{{ paginator.next_page_path | relative_url }}"
-      class="button button--light pagination__next"
-      ><span>Older Posts</span>
-      <i class="fa fa-angle-right" aria-hidden="true"></i
-    ></a>
+    <a href="{{ paginator.next_page_path | relative_url }}" class="button button--light pagination__next"><span>Older
+        Posts</span>
+      <i class="fa fa-angle-right" aria-hidden="true"></i></a>
     {% endif %}
   </div>
 </section>
 
 {% endif %}
+
+<section>
+  <a class="banner-bottom" href="https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309_0_1_441"
+    target="_blank"><img style="border:0px" src="https://www.idevaffiliate.com/31555/media/banners/970x250_summer19.jpg"
+      width="970" height="250" alt=""></a>
+</section>
