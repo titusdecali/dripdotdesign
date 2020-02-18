@@ -1,6 +1,6 @@
 ---
 title: Why we love the Bellroy Hide and Seek
-date: 2020-01-24 15:00:00 +0000
+date: 2020-01-24T15:00:00.000+00:00
 description: We picked up our top 3 accessories from Bellroy, including the Bellroy
   Hide and Seek. Read our article to declutter your everyday carry.
 featured_image: "/uploads/Bellroy Hide and Seek.png"
@@ -34,8 +34,8 @@ Separate colors were chosen for the inside, outside, and in the thread stitching
 
 #### A practical solution for your cards and cash
 
-Bellroy designed the Hide and Seek wallet to allow you to carry your cash and cards discreetly.  
-  
+Bellroy designed the Hide and Seek wallet to allow you to carry your cash and cards discreetly.
+
 In addition to its 5 visible card slots, the wallet has one additional secret slot located in the secondary cash compartment. This cash compartment is concealed by a thin leather flap, allowing you to hide extra banknotes and cards. Now you know why this wallet was named the **Hide and Seek**.
 
 ![](/uploads/Bellroy best wallet-1.png)
@@ -45,6 +45,7 @@ We love this secondary cash pouch as we can use it to carry foreign currencies w
 Like all Bellroy accessories, the Hide and Seek comes with a 3-year international warranty.
 
 * [View the Hide and Seek on Amazon](https://amzn.to/38XLhxt)
+* [View the Hide and Seek on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37766 "Hide and Seek")
 
 ![](/uploads/Best wallet by Bellroy-1.png)
 
@@ -56,8 +57,8 @@ Carry more without sacrificing style. If a minimalist wallet like the Hide and S
 
 #### Small details for a strong impression
 
-This RFID-protected wallet is made with environmentally friendly vegetable-tanned leather, available in multiple color options. Like with the Hide and Seek, the Note Sleeve is made with two different leather colors (external/internal) to create a nice contrast of colors.  
-  
+This RFID-protected wallet is made with environmentally friendly vegetable-tanned leather, available in multiple color options. Like with the Hide and Seek, the Note Sleeve is made with two different leather colors (external/internal) to create a nice contrast of colors.
+
 Unlike the Hide and Seek, there is no steel owl on the Note Sleeve. Instead, the Bellroy brand is stamped onto the leather.
 
 #### When style meets practicality
@@ -75,6 +76,7 @@ The Bellroy Note Sleeve comes with a 3-year international warranty.
 In our opinion, there is only one thing missing to make the Bellroy Note Sleeve the best wallet in the market; a small compartment to carry a micro USB or an additional sim card (for travelers).
 
 * [View the Bellroy Note Sleeve on Amazon](https://amzn.to/2OfeJHp)
+* [View the Bellroy Note Sleeve on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37767 "Note Sleeve")
 
 ### The Bellroy Phone Case - 3 Card
 
@@ -99,6 +101,7 @@ The **_Bellroy Phone Case - 3 Card_** is manufactured with premium, environmenta
 We are sorry to see that this case is currently not available for other iPhone models or Samsung devices.
 
 * [View the Bellroy Phone Case - 3 Card on Amazon](https://amzn.to/2Se46We)
+* [View the Bellroy Phone Case - 3 Card on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37768 "Bellroy Phone Case")
 
 There you have it. Our three favorite accessories from _Bellroy_ to declutter 2020 and focus your energy on what matters.
 
@@ -111,6 +114,7 @@ Organize all your work gear in a sleek pouch. From your laptop and cables to you
 **![](/uploads/Bellroy Tech Folio.jpg)**
 
 * [View the Bellroy Tech Folio on Amazon](https://amzn.to/2ubgm1V)
+* [View the Bellroy Tech Folio on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37769 "Tech Folio Bellroy")
 
 ### The Transit backpack
 
@@ -119,6 +123,7 @@ The ideal backpack for urban travelers. Carry your work gear together with enoug
 ![](/uploads/Bellroy Transit Backpack.jpg)
 
 * [View the Bellroy Transit Backpack on Amazon](https://amzn.to/2uUm7RK)
+* [View the Bellroy Transit Backpack on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37770 "Transit Backpack Bellroy")
 
 ### The Classic Backpack
 
@@ -127,8 +132,8 @@ With its large storing capacity (20 liters) and materials made from recycled pla
 ![](/uploads/Bellroy Classic Backpack.jpg)
 
 * [View the Bellroy Classic Backpack on Amazon](https://amzn.to/2Ola1bf)
+* [View the Bellroy Classic Backpack on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37771 "Bellroy Classic Backpack")
 
-  
 [Sign up to our newsletter](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products
 
 **_Source_**_: All pictures used for this review are from Bellroy_
