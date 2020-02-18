@@ -13,7 +13,7 @@ featured_image: "/uploads/Supply Razor.jpg"
 While browsing video clips of Shark Tank on Youtube, we came across the startup Supply and its latest razor; the Supply Single Edge Razor 2.0. Intrigued by the sleek design of this grooming tool, we decided to take a closer look at the Supply Single Edge Razor 2.0.
 
 <div style="max-width:1200px; margin: 25px auto;">
-<iframe width="800" height="315" src="https://www.youtube.com/embed/fJCvxMfIk4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="500" src="https://www.youtube.com/embed/fJCvxMfIk4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
