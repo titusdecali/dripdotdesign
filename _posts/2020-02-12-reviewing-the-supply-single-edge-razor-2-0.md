@@ -1,6 +1,6 @@
 ---
 title: Reviewing the Supply Single Edge Razor 2.0
-date: 2020-02-12 15:00:00 +0000
+date: 2020-02-12T15:00:00.000+00:00
 description: We reviewed the Supply Single Edge Razor 2.0. Read why we believe this
   is the last razor your will ever buy.
 featured_image: "/uploads/Supply Razor.jpg"
@@ -12,7 +12,9 @@ featured_image: "/uploads/Supply Razor.jpg"
 
 While browsing video clips of Shark Tank on Youtube, we came across the startup Supply and its latest razor; the Supply Single Edge Razor 2.0. Intrigued by the sleek design of this grooming tool, we decided to take a closer look at the Supply Single Edge Razor 2.0.
 
-    <iframe width="420" height="315" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJCvxMfIk4M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### Multiple blades razors are bad for you
 
