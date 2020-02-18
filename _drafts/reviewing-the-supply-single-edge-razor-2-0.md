@@ -12,7 +12,7 @@ featured_image: "/uploads/Supply Razor.jpg"
 
 While browsing video clips of Shark Tank on Youtube, we came across the startup Supply and its latest razor; the Supply Single Edge Razor 2.0. Intrigued by the sleek design of this grooming tool, we decided to take a closer look at the Supply Single Edge Razor 2.0.
 
-[https://youtu.be/fJCvxMfIk4M](https://youtu.be/fJCvxMfIk4M "https://youtu.be/fJCvxMfIk4M")
+<iframe width="420" height="315" src="[http://www.youtube.com/embed/dQw4w9WgXcQ](http://www.youtube.com/embed/dQw4w9WgXcQ "http://www.youtube.com/embed/dQw4w9WgXcQ")" frameborder="0" allowfullscreen></iframe>
 
 ### Multiple blades razors are bad for you
 
