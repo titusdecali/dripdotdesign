@@ -76,7 +76,7 @@ The Bellroy Note Sleeve comes with a 3-year international warranty.
 In our opinion, there is only one thing missing to make the Bellroy Note Sleeve the best wallet in the market; a small compartment to carry a micro USB or an additional sim card (for travelers).
 
 * [View the Bellroy Note Sleeve on Amazon](https://amzn.to/2OfeJHp)
-* [View the Bellroy Note Sleeve on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37767 "Note Sleeve")
+* [View the Bellroy Note Sleeve on Huckberry](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=37772 "Note Sleeve Bellroy")
 
 ### The Bellroy Phone Case - 3 Card
 
