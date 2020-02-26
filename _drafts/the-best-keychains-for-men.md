@@ -25,8 +25,6 @@ We selected what we consider to be the best keychains for men. To come up with t
 
 We narrowed down our list to the 8 best keychains for men. They offer functions such as a bottle opener to a screwdriver or even a pipe... Yes, you read it right... A pipe… They are the perfect addition to your everyday carry.
 
-**+++**
-
 ### The James Brand Halifax Keychain Multi-Tool
 
 A compact and sleek keychain to add to your EDC thanks to its multi-tool function. Made from solid billet titanium, the Halifax stands out thanks to its black Cerakote finishing.  
@@ -65,6 +63,10 @@ Functions
 * Bottle Opener
 * Lanyard Hole
 * Cross Driver
+
+[**View the Shard keychain tool by Gerber on Amazon**](https://amzn.to/38XLhxt)
+
+B077926SLG
 
 [https://www.amazon.com/Gerber-Shard-Keychain-Tool-30-001501/dp/B077926SLG/ref=sr_1_2?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-2](https://www.amazon.com/Gerber-Shard-Keychain-Tool-30-001501/dp/B077926SLG/ref=sr_1_2?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-2 "https://www.amazon.com/Gerber-Shard-Keychain-Tool-30-001501/dp/B077926SLG/ref=sr_1_2?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-2")
 
