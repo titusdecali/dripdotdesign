@@ -69,17 +69,13 @@ Functions
 
 [**View the Shard keychain tool by Gerber on Amazon**](https://amzn.to/38XLhxt)
 
-B077926SLG
-
-[https://www.amazon.com/Gerber-Shard-Keychain-Tool-30-001501/dp/B077926SLG/ref=sr_1_2?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-2](https://www.amazon.com/Gerber-Shard-Keychain-Tool-30-001501/dp/B077926SLG/ref=sr_1_2?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-2 "https://www.amazon.com/Gerber-Shard-Keychain-Tool-30-001501/dp/B077926SLG/ref=sr_1_2?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-2")
-
 ### The Original Keychain Car Escape Tool by RESQME
 
 While we are not thrilled by the design of this keychain, we can only praise it for its functionality. This keychain could one day save your life. No kidding!
 
 REQME designed this keychain to cute your seatbelt and shatters your car’s glass in the event of a car accident. While you might not want to carry it with you all the time, we recommend placing at least two of them in your car. For maximum safety, for both you and your car passengers, you could place 2 in the front and 2 in the back of your vehicle. Make sure they are easily accessible. With the help of Velcro, you can fix them within hand reach from you and your passengers. Safety first.
 
-[https://www.amazon.com/resqme-Original-Keychain-Escape-Black/dp/B000IDYKQO/ref=sr_1_6?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-6](https://www.amazon.com/resqme-Original-Keychain-Escape-Black/dp/B000IDYKQO/ref=sr_1_6?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-6 "https://www.amazon.com/resqme-Original-Keychain-Escape-Black/dp/B000IDYKQO/ref=sr_1_6?crid=2HFWO3Z3CR8QS&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-6")
+[View the Original Keychain Car Escape Tool on Amazon](https://amzn.to/392akQk "The Original Keychain Car Escape Tool")
 
 ### 
 
@@ -87,7 +83,7 @@ The Geekey Multitool
 
 The Geekey is not a keychain, but its functionality could not be ignored. This multitool his even featuring a pipe. Made with stainless steel 420, it has over 16+ functions. From a bottle opener, a bit driver, an open wrench to a pipe…
 
-[https://www.amazon.com/Geekey-Multitool-Screwdriver-Stainless-Friendly/dp/B07T5JZD9H/ref=sr_1_3?crid=2HFWO3Z3CR8QS&dchild=1&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-3](https://www.amazon.com/Geekey-Multitool-Screwdriver-Stainless-Friendly/dp/B07T5JZD9H/ref=sr_1_3?crid=2HFWO3Z3CR8QS&dchild=1&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-3 "https://www.amazon.com/Geekey-Multitool-Screwdriver-Stainless-Friendly/dp/B07T5JZD9H/ref=sr_1_3?crid=2HFWO3Z3CR8QS&dchild=1&keywords=keychain+tool&qid=1582166366&sprefix=keychain+tool%2Caps%2C632&sr=8-3")
+[View the Geekey Multitool on Amazon](https://amzn.to/2w781gk "The Geekey Multitool")
 
 ### 
 
