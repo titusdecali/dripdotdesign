@@ -59,7 +59,11 @@ The Mehlville deserves its place among the **best keychains for men**.
 
 ### Micro USB NomadKey
 
-This little tool is not a keychain but a functional companion to complement your keychain. If your smartphone operates on Android, you will thank us. The NomadKey will allow you to connect your phone to any USB port. Use it to recharge your device to transfer data. With the help of an adaptor, you could even use the NomadKey with your iPhone.
+This little tool is not a keychain but a functional companion to complement your keychain. 
+
+If your smartphone operates on Android, you will thank us. 
+
+The NomadKey will allow you to connect your phone to any USB port. Use it to charge your device or to transfer data. 
 
 [https://huckberry.com/store/nomad/category/p/16314-micro-usb-nomadkey](https://huckberry.com/store/nomad/category/p/16314-micro-usb-nomadkey "https://huckberry.com/store/nomad/category/p/16314-micro-usb-nomadkey")
 
