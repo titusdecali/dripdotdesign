@@ -45,9 +45,15 @@ Featuring a stainless steel bottle opener, a flathead/Phillips screwdriver, and 
 
 ### The best keychain for men - The Mehlville by the James Brand
 
-The team behind the James Brand as demonstrated product after product how much they care about making functional and sturdy _EDC_ (everyday carry) tools.
+The team behind the James Brand has demonstrated product after product how much they care about crafting functional and sturdy _EDC_ (everyday carry) tools.
 
-If we had to pick EDC from the James Brand, it would be The Mehlville. This keychain is a carabiner tool carved from a solid piece of aluminum. This makes it strong and light at the same time. A functional design for a carabiner built like a tank. Its carabiner gate has a buttery smooth opening and closing motion. We particularly enjoy the bottle opener function of this keychain. The Mehlville deserves its place among the **best keychains for men**.
+If we had to pick one EDC accessory from the James Brand, it would be The Mehlville. This keychain is a carabiner carved from a solid piece of aluminum. Making it strong and light at the same time. 
+
+A functional design for a carabiner built like a tank. 
+
+We love the buttery smooth opening and closing of the carabiner gates. The little addition of the Mehlville is its bottle opener function. 
+
+The Mehlville deserves its place among the **best keychains for men**.
 
 [https://huckberry.com/store/the-james-brand/category/p/55120-the-mehlville](https://huckberry.com/store/the-james-brand/category/p/55120-the-mehlville "https://huckberry.com/store/the-james-brand/category/p/55120-the-mehlville")
 
