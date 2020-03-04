@@ -26,7 +26,9 @@ We selected what we consider to be the best keychains for men. To come up with t
 * Well-designed
 * Functional
 
-We narrowed down our list to the 8 best keychains for men. They offer functions such as a bottle opener to a screwdriver or even a pipe... Yes, you read it right... A pipe… They are the perfect addition to your everyday carry.
+We narrowed down our list to the **8 best keychains for men**. These keychains offer practical functions such as a bottle opener, a screwdriver or even a pipe... Yes, you read it right... A pipe… 
+
+They are the perfect addition to your everyday carry.
 
 ### The James Brand Halifax Keychain Multi-Tool
 
@@ -34,8 +36,10 @@ We narrowed down our list to the 8 best keychains for men. They offer functions 
 
 Source: [The James Brand](https://shop.thejamesbrand.com/products/the-halifax?variant=12247075717221)
 
-A compact and sleek keychain to add to your EDC thanks to its multi-tool function. Made from solid billet titanium, the Halifax stands out thanks to its black Cerakote finishing.  
-Featuring a stainless steel bottle opener, a flathead/Phillips screwdriver, and a pry bar this multitool deserves the title of best keychain for men. It is the perfect tool to carry with you wherever you go… Always in your pocket or bag. From your office to an outdoor adventure.
+A compact and sleek keychain featuring a multi-tool function. Upgrade your EDC with the Halifax. 
+
+Made from solid billet titanium, the Halifax stands out thanks to its black Cerakote finishing.  
+Featuring a stainless steel bottle opener, a flathead/Phillips screwdriver, and a pry bar this multitool deserves the title of _best keychain for men_. It is the perfect tool to carry with you wherever you go… Always in your pocket or bag. From the office to an outdoor adventure.
 
 [https://gallantry.idevaffiliate.com/signup.php](https://gallantry.idevaffiliate.com/signup.php "https://gallantry.idevaffiliate.com/signup.php")
 
@@ -83,7 +87,7 @@ REQME designed this keychain to cute your seatbelt and shatters your car’s gla
 
 ### 
 
-The Geekey Multitool
+### The Geekey Multitool
 
 The Geekey is not a keychain, but its functionality could not be ignored. This multitool his even featuring a pipe. Made with stainless steel 420, it has over 16+ functions. From a bottle opener, a bit driver, an open wrench to a pipe…
 
@@ -91,7 +95,7 @@ The Geekey is not a keychain, but its functionality could not be ignored. This m
 
 ### 
 
-The Survival Pod by Wazoo Survival Guar
+### The Survival Pod by Wazoo Survival Guar
 
 You never know how much you need a paracord until you really need one. From an improvised dry hanger, a leash for your dog or extra gear to secure on your bike or backpack… This keychain and its paracord will do the trick.
 
