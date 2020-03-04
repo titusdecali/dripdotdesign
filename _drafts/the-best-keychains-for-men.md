@@ -51,7 +51,7 @@ If we had to pick one EDC accessory from the James Brand, it would be The Mehlvi
 
 A functional design for a carabiner built like a tank. 
 
-We love the buttery smooth opening and closing of the carabiner gates. Because detail matters, the James Brand added a bottle opener function to the Mehlville is its bottle opener function. 
+We love the buttery smooth opening and closing of the carabiner gates. Because details matter, the James Brand added a bottle opener function to the Mehlville. 
 
 The Mehlville deserves its place among the **best keychains for men**.
 
