@@ -76,6 +76,8 @@ A low number of keychains were produced from casted raw brass. Due to the nature
   
 This Taylor Stitch keychain is not bulky and will look great no matter what you wear. You could try for example a denim shirt or trousers from Taylor Stitch. [https://www.taylorstitch.com/collections/mens-denim](https://www.taylorstitch.com/collections/mens-denim "https://www.taylorstitch.com/collections/mens-denim")
 
+\+++
+
 ### The Shard keychain tool by Gerber
 
 Considered as the best EDC tool from Gerber, this EDC tool features 7 functions to help you get things done. We like that Gerber coated the Shard with titanium nitride for maximum protection against corrosion.  
