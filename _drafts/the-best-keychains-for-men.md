@@ -69,7 +69,11 @@ The NomadKey will allow you to connect your phone to any USB port. Use it to cha
 
 ### Keyhook in Raw Brass
 
-As we like to say, less is more. This keychain is stripped down from everything to focus on its main function; keeping your keys together. The Keyhook in Raw Brass was casted in raw brass in a low unit production batch. Due to the nature of raw brass, this keychain will gain a nice patina over time.  
+As we like to say, less is more. This keychain is stripped down from everything to focus on its main function; keeping your keys together. 
+
+A low number of keychains were produced from casted raw brass. Due to the nature of this material, the Keyhook will gain a nice patina over time.
+
+  
 This Taylor Stitch keychain is not bulky and will look great no matter what you wear. You could try for example a denim shirt or trousers from Taylor Stitch. [https://www.taylorstitch.com/collections/mens-denim](https://www.taylorstitch.com/collections/mens-denim "https://www.taylorstitch.com/collections/mens-denim")
 
 ### The Shard keychain tool by Gerber
