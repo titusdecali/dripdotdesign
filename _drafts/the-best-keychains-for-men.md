@@ -23,7 +23,7 @@ To help you deal properly with this problem, we put together for you a list of t
 We selected what we consider to be the best keychains for men. To come up with this list, we looked for keychains that are:
 
 * Built to last
-* Are well-designed
+* Well-designed
 * Functional
 
 We narrowed down our list to the 8 best keychains for men. They offer functions such as a bottle opener to a screwdriver or even a pipe... Yes, you read it right... A pipe… They are the perfect addition to your everyday carry.
