@@ -75,6 +75,8 @@ A low number of keychains were produced from casted raw brass. Due to the nature
 
 This Taylor Stitch keychain is not bulky and will look great no matter what you wear. You could try for example a [**denim shirt**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38195) or [**trousers**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38193) from Taylor Stitch.
 
+If you enjoy brass EDC, check out this great brass bottle opener from [**Craighill**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38196). It's a manly piece of art. 
+
 \+++
 
 ### The Shard keychain tool by Gerber
