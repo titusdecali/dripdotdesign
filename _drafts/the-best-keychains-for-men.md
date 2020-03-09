@@ -108,7 +108,7 @@ REQME designed this keychain to cute your seatbelt and shatters your car’s gla
 
 The Geekey is not a keychain, but its functionality could not be ignored. This multitool his even featuring a pipe. Made with stainless steel 420, it has over 16+ functions. From a bottle opener, a bit driver, an open wrench to a pipe…
 
-[View the Geekey Multitool on Amazon](https://amzn.to/2w781gk "The Geekey Multitool")
+[**View the Geekey Multitool on Amazon**](https://amzn.to/2w781gk "The Geekey Multitool")
 
 ### 
 
