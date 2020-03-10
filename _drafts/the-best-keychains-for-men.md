@@ -47,6 +47,10 @@ Featuring a stainless steel bottle opener, a flathead/Phillips screwdriver, and 
 
 The team behind the James Brand has demonstrated product after product how much they care about crafting functional and sturdy _EDC_ (everyday carry) tools.
 
+![](/uploads/Mehlville_Titanium.jpg)
+
+Source: [The James Brand](https://shop.thejamesbrand.com/products/the-halifax?variant=12247075717221)
+
 If we had to pick one EDC accessory from the James Brand, it would be The Mehlville. This keychain is a carabiner carved from a solid piece of aluminum. Making it strong and light at the same time.
 
 A functional design for a carabiner built like a tank.
@@ -61,11 +65,15 @@ The Mehlville deserves its place among the **best keychains for men**.
 
 This little tool is not a keychain but a functional companion to complement your keychain.
 
+![](/uploads/NOMAD micro USB key.png)
+
+Source: [NOMAD](https://nomadgoods.com/)
+
 If your smartphone operates on Android, you will thank us.
 
 The NomadKey will allow you to connect your phone to any USB port. Use it to charge your device or to transfer data.
 
-[**View the Micro USB NomadKey on Huckberry**]()
+[**View the Micro USB NomadKey on Huckberry**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38191)
 
 ### Keyhook in Raw Brass
 
@@ -75,7 +83,7 @@ A low number of keychains were produced from casted raw brass. Due to the nature
 
 This Taylor Stitch keychain is not bulky and will look great no matter what you wear. You could try for example a [**denim shirt**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38195) or [**trousers**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38193) from Taylor Stitch.
 
-If you enjoy brass EDC, check out this great brass bottle opener from [**Craighill**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38196). It's a manly piece of art. 
+If you enjoy brass EDC, check out this great brass bottle opener from [**Craighill**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38196). It's a manly piece of art.
 
 \+++
 
