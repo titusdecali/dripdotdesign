@@ -81,6 +81,10 @@ As we like to say, less is more. This keychain is stripped down from everything 
 
 A low number of keychains were produced from casted raw brass. Due to the nature of this material, the Keyhook will gain a nice patina over time.
 
+![](/uploads/Taylor Stitch.png)
+
+Source: [Taylor Stitch](https://www.taylorstitch.com)
+
 This Taylor Stitch keychain is not bulky and will look great no matter what you wear. You could try for example a [**denim shirt**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38195) or [**trousers**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38193) from Taylor Stitch.
 
 If you enjoy brass EDC, check out this great brass bottle opener from [**Craighill**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38196). It's a manly piece of art.
