@@ -32,7 +32,7 @@ A compact and sleek keychain featuring a multi-tool function. Upgrade your EDC w
 
 Made from solid billet titanium, the Halifax stands out thanks to its black Cerakote finishing. Featuring a stainless steel bottle opener, a flathead/Phillips screwdriver, and a pry bar, this multitool deserves the title of _best keychain for men_. It is the perfect tool to carry with you wherever you go, always in your pocket or bag.
 
-[**View the Halifax on Huckberry__](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38194 "the Halifax ")****
+[**View the Halifax on Huckberry**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38194 "the Halifax ")
 
 ### The best keychain for men - James 'Mehlville'
 
@@ -131,6 +131,8 @@ The Geekey is not a keychain, but its functionality could not be ignored. This m
 ### The Survival Pod by Wazoo Survival Gear
 
 ![](/uploads/The Survival Pod by Wazoo Survival Gear.jpeg)
+
+Source: [Amazon](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38192)
 
 You never know how much you need a paracord until you really need one. From an improvised dry hanger, a leash for your dog or extra gear to secure on your bike or backpack… This keychain and its paracord will do the trick.
 
