@@ -108,6 +108,10 @@ Source: [Gerber](https://www.gerbergear.com/)
 
 While we are not thrilled by the design of this keychain, we can only praise it for its life-saving functionality.
 
+![The Original Keychain Car Escape Tool by RESQME](/uploads/The Original Keychain Car Escape Tool by RESQME.jpeg)
+
+Source: [Amazon](https://amzn.to/392akQk)
+
 REQME designed this keychain to cute your seatbelt and shatters your car’s glass in the event of a car accident.
 
 While you might not want to carry it with you all the time, we recommend placing at least two of them in your car.
