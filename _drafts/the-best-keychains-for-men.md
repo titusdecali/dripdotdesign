@@ -3,7 +3,7 @@ title: The Best Keychains for Men
 date: 
 description: We selected the 8 best keychains for men. These 8 practical and robust
   keychains should be part of your EDC (everyday carry).
-featured_image: ''
+featured_image: "/uploads/Taylor Stitch-1.png"
 
 ---
 # The best keychains for men
@@ -120,11 +120,17 @@ While you might not want to carry it with you all the time, we recommend placing
 
 ### The Geekey Multitool
 
+![The Geekey Multitool](/uploads/The Geekey Multitool.jpeg)
+
+Source: [Amazon](https://amzn.to/2w781gk)
+
 The Geekey is not a keychain, but its functionality could not be ignored. This multitool his even featuring a pipe. Made with stainless steel 420, it has over 16+ functions. From a bottle opener, a bit driver, an open wrench to a pipe…
 
 [**View the Geekey Multitool on Amazon__](https://amzn.to/2w781gk "The Geekey Multitool")********
 
-### The Survival Pod by Wazoo Survival Guar
+### The Survival Pod by Wazoo Survival Gear
+
+![](/uploads/The Survival Pod by Wazoo Survival Gear.jpeg)
 
 You never know how much you need a paracord until you really need one. From an improvised dry hanger, a leash for your dog or extra gear to secure on your bike or backpack… This keychain and its paracord will do the trick.
 
