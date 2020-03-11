@@ -138,3 +138,5 @@ The Geekey is not a keychain, but its functionality could not be ignored. This m
 You never know how much you need a paracord until you really need one. From an improvised dry hanger, a leash for your dog or extra gear to secure on your bike or backpack… This keychain and its paracord will do the trick.
 
 [**View the Survival Pod on Huckberry**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38192 "The Survival Pod")
+
+Here you have it. The 8 best keychains currently available for men. Which one would you add to your EDC? 
