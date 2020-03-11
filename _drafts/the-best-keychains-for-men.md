@@ -77,17 +77,21 @@ The NomadKey will allow you to connect your phone to any USB port. Use it to cha
 
 ### The Keyhook in Raw Brass
 
-We like to think that less is more. This keychain is stripped down from everything to focus only on its main function; keeping your keys together.
+We like to think that less is more. The Keyhook reflects this belief as it focuses only on keeping your keys together.
 
-Don't expect to see many guys with this keychain. It was only produced as a small batch. Due to the nature of raw brass, the Keyhook will like premium leather, gain a nice patina over time.
+Don't expect to see many guys sporting this keychain as the Keyhook was produced in a small batch. 
+
+Due to the nature of raw brass, the Keyhook will like premium leather, gain a nice patina over time.
 
 ![](/uploads/Taylor Stitch.png)
 
 Source: [Taylor Stitch](https://www.taylorstitch.com)
 
-This Taylor Stitch keychain is not bulky and will look great no matter what you wear. You could try for example a [**denim shirt**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38195) or [**trousers**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38193) from Taylor Stitch.
+Taylor Stitch designed a non-bulky keychain that will look great no matter what you wear. You could try for example to pair it with a [**denim shirt**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38195) or [**trousers**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38193) from Taylor Stitch.
 
-If you enjoy brass EDC, check out this great brass bottle opener from [**Craighill**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38196). It's a manly piece of art.
+If you enjoy brass-made EDC, check out this great brass bottle opener from [**Craighill**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38196). 
+
+It looks like a manly piece of art.
 
 \+++
 
