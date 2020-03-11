@@ -139,3 +139,7 @@ You never know how much you need a paracord until you really need one. From an i
 [**View the Survival Pod on Huckberry**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38192 "The Survival Pod")
 
 Here you have it. The 8 best keychains currently available for men. Which one would you add to your EDC?
+
+Don't buy your new wallet before reading [**why we love the Bellroy Hide and Seek**](https://drip.design/2020/01/24/why-we-love-the-bellroy-hide-and-seek.html "Why we love the Bellroy Hide and Seek"). 
+
+[**Sign up to our newsletter**](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products.
