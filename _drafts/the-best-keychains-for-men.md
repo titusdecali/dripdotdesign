@@ -75,11 +75,11 @@ The NomadKey will allow you to connect your phone to any USB port. Use it to cha
 
 [**View the Micro USB NomadKey on Huckberry**](https://www.idevaffiliate.com/31555/idevaffiliate.php?id=1309&url=38191)
 
-### Keyhook in Raw Brass
+### The Keyhook in Raw Brass
 
-As we like to say, less is more. This keychain is stripped down from everything to focus on its main function; keeping your keys together.
+We like to think that less is more. This keychain is stripped down from everything to focus only on its main function; keeping your keys together.
 
-A low number of keychains were produced from casted raw brass. Due to the nature of this material, the Keyhook will gain a nice patina over time.
+Don't expect to see many guys with this keychain. It was only produced as a small batch. Due to the nature of raw brass, the Keyhook will like premium leather, gain a nice patina over time.
 
 ![](/uploads/Taylor Stitch.png)
 
