@@ -93,16 +93,15 @@ If you enjoy brass-made EDC, check out this great brass bottle opener from [**Cr
 
 It looks like a manly piece of art.
 
-\+++
-
 ### The Shard keychain tool by Gerber
 
-Considered as the best EDC tool from Gerber, this EDC tool features 7 functions to help you get things done. We like that Gerber coated the Shard with titanium nitride for maximum protection against corrosion.  
-Functions
+Considered as the best EDC tool from Gerber, this EDC tool features 7 functions to help you get things done. We like that the team behind this product coated the Shard with titanium nitride for maximum protection against corrosion.
 
 ![](/uploads/Gerber shard.png)
 
 Source: [Gerber](https://www.gerbergear.com/)
+
+**Functions**
 
 * Pry Bar
 * Small Flathead Driver
@@ -116,9 +115,11 @@ Source: [Gerber](https://www.gerbergear.com/)
 
 ### The Original Keychain Car Escape Tool by RESQME
 
-While we are not thrilled by the design of this keychain, we can only praise it for its functionality. This keychain could one day save your life. No kidding!
+While we are not thrilled by the design of this keychain, we can only praise it for its life-saving functionality.
 
-REQME designed this keychain to cute your seatbelt and shatters your car’s glass in the event of a car accident. While you might not want to carry it with you all the time, we recommend placing at least two of them in your car. For maximum safety, for both you and your car passengers, you could place 2 in the front and 2 in the back of your vehicle. Make sure they are easily accessible. With the help of Velcro, you can fix them within hand reach from you and your passengers. Safety first.
+REQME designed this keychain to cute your seatbelt and shatters your car’s glass in the event of a car accident. 
+
+While you might not want to carry it with you all the time, we recommend placing at least two of them in your car. 
 
 [**View the Original Keychain Car Escape Tool on Amazon**](https://amzn.to/392akQk "The Original Keychain Car Escape Tool")
 
