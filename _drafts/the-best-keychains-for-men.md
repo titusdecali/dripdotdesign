@@ -96,6 +96,10 @@ If you enjoy brass EDC, check out this great brass bottle opener from [**Craighi
 Considered as the best EDC tool from Gerber, this EDC tool features 7 functions to help you get things done. We like that Gerber coated the Shard with titanium nitride for maximum protection against corrosion.  
 Functions
 
+![](/uploads/Gerber shard.png)
+
+Source: [Gerber](https://www.gerbergear.com/) 
+
 * Pry Bar
 * Small Flathead Driver
 * Wire Stripper Puller
@@ -104,7 +108,7 @@ Functions
 * Lanyard Hole
 * Cross Driver
 
-[**View the Shard keychain tool by Gerber on Amazon**](https://amzn.to/38XLhxt)
+[**View the Shard keychain tool by Gerber on Amazon**](https://amzn.to/2IEgElI)
 
 ### The Original Keychain Car Escape Tool by RESQME
 
