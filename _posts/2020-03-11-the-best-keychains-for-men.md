@@ -1,6 +1,6 @@
 ---
 title: The Best Keychains for Men
-date: 2020-03-11 15:00:00 +0000
+date: 2020-03-11T15:00:00.000+00:00
 description: We selected the 8 best keychains for men. These 8 practical and robust
   keychains should be part of your EDC (everyday carry).
 featured_image: "/uploads/Taylor Stitch-1.png"
@@ -140,6 +140,6 @@ You never know how much you need a paracord until you really need one. From an i
 
 Here you have it. The 8 best keychains currently available for men. Which one would you add to your EDC?
 
-Don't buy your new wallet before reading [**why we love the Bellroy Hide and Seek**](https://drip.design/2020/01/24/why-we-love-the-bellroy-hide-and-seek.html "Why we love the Bellroy Hide and Seek"). 
+Don't buy your new wallet before reading [**why we love the Bellroy Hide and Seek**](https://drip.design/2020/01/24/why-we-love-the-bellroy-hide-and-seek.html "Why we love the Bellroy Hide and Seek").
 
 [**Sign up to our newsletter**](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products.
