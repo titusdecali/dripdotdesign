@@ -142,4 +142,4 @@ Here you have it. The 8 best keychains currently available for men. Which one wo
 
 Don't buy your new wallet before reading [**why we love the Bellroy Hide and Seek**](https://drip.design/2020/01/24/why-we-love-the-bellroy-hide-and-seek.html "Why we love the Bellroy Hide and Seek").
 
-[**Sign up to our newsletter**](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products.
+[**Sign up to our newsletter**](https://www.subscribepage.com/dripdesignsignup "Drip Design Newsletter") to get our latest curated products. 
