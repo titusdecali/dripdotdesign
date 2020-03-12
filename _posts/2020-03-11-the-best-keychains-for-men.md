@@ -3,7 +3,7 @@ title: The Best Keychains for Men
 date: 2020-03-11T15:00:00.000+00:00
 description: We selected the 8 best keychains for men. These 8 practical and robust
   keychains should be part of your EDC (everyday carry).
-featured_image: "/uploads/Taylor Stitch-1.png"
+featured_image: "/uploads/Taylor Stitch-2.png"
 
 ---
 # The best keychains for men
